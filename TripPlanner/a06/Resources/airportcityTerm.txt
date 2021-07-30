@@ -1,0 +1,6059 @@
+6058
+GKA	Goroka
+MAG	Madang
+HGU	Mount Hagen
+LAE	Nadzab
+POM	Port Moresby
+WWK	Wewak
+UAK	Narssarssuaq
+GOH	Godthaab
+SFJ	Sondrestrom
+THU	Thule
+AEY	Akureyri
+EGS	Egilsstadir
+HFN	Hofn
+HZK	Husavik
+IFJ	Isafjordur
+KEF	Keflavik
+PFJ	Patreksfjordur
+RKV	Reykjavik
+SIJ	Siglufjordur
+VEY	Vestmannaeyjar
+YAM	Sault Sainte Marie
+YAY	St. Anthony
+YAZ	Tofino
+YBB	Pelly Bay
+YBC	Baie Comeau
+YBG	Bagotville
+YBK	Baker Lake
+YBL	Campbell River
+YBR	Brandon
+YCB	Cambridge Bay
+YCD	Nanaimo
+YCG	Castlegar
+YCH	Chatham
+YCL	Charlo
+YCO	Coppermine
+YCT	Coronation
+YCW	Chilliwack
+YCY	Clyde River
+YZS	Coral Harbour
+YDA	Dawson
+YDB	Burwash
+YDF	Deer Lake
+YDL	Dease Lake
+YDN	Dauphin
+YDQ	Dawson Creek
+YEG	Edmonton
+YEK	Eskimo Point
+YEN	Estevan
+YET	Edson
+YEU	Eureka
+YEV	Inuvik
+YFB	Iqaluit
+YFC	Fredericton
+YFE	Forestville
+YFO	Flin Flon
+YFR	Fort Resolution
+YFS	Fort Simpson
+YGK	Kingston
+YGL	La Grande Riviere
+YGP	Gaspe
+YGQ	Geraldton
+YGR	Iles De La Madeleine
+YHB	Hudson Bay
+YHD	Dryden
+YHI	Holman Island
+YHK	Gjoa Haven
+YHM	Hamilton
+YHU	Montreal
+YHY	Hay River
+YHZ	Halifax
+YIB	Atikokan
+YIO	Pond Inlet
+YJN	St. Jean
+YJT	Stephenville
+YKA	Kamloops
+YKF	Waterloo
+YKL	Schefferville
+YKY	Kindersley
+YKZ	Toronto
+YLD	Chapleau
+YLJ	Meadow Lake
+YLL	Lloydminster
+YLT	Alert
+YLW	Kelowna
+YMA	Mayo
+YMJ	Moose Jaw
+YMM	Fort Mcmurray
+YMO	Moosonee
+YMW	Maniwaki
+YMX	Montreal
+YNA	Natashquan
+YND	Gatineau
+YNM	Matagami
+YOC	Old Crow
+YOD	Cold Lake
+YOJ	High Level
+YOW	Ottawa
+YPA	Prince Albert
+YPE	Peace River
+YPG	Portage-la-prairie
+YPL	Pickle Lake
+YPN	Port Menier
+YPQ	Peterborough
+YPR	Prince Pupert
+YPY	Fort Chipewyan
+YQA	Muskoka
+YQB	Quebec
+YQF	Red Deer Industrial
+YQG	Windsor
+YQH	Watson Lake
+YQK	Kenora
+YQL	Lethbridge
+YQM	Moncton
+YQQ	Comox
+YQR	Regina
+YQT	Thunder Bay
+YQU	Grande Prairie
+YQV	Yorkton
+YQW	North Battleford
+YQX	Gander
+YQY	Sydney
+YQZ	Quesnel
+YRB	Resolute
+YRI	Riviere Du Loup
+YRJ	Roberval
+YRM	Rocky Mountain House
+YRT	Rankin Inlet
+YSB	Sudbury
+YSC	Sherbrooke
+YSJ	St. John
+YSM	Fort Smith
+YSR	Nanisivik
+YSU	Summerside
+YSY	Sachs Harbour
+YTE	Cape Dorset
+YTH	Thompson
+YTR	Trenton
+YTS	Timmins
+YTZ	Toronto
+YUB	Tuktoyaktuk
+YUL	Montreal
+YUT	Repulse Bay
+YUX	Hall Beach
+YUY	Rouyn
+YVC	La Ronge
+YVG	Vermillion
+YVM	Broughton Island
+YVO	Val D'or
+YVP	Quujjuaq
+YVQ	Norman Wells
+YVR	Vancouver
+YVT	Buffalo Narrows
+YVV	Wiarton
+YWA	Petawawa
+YWG	Winnipeg
+YWK	Wabush
+YWL	Williams Lake
+YWY	Wrigley
+YXC	Cranbrook
+YXD	Edmonton
+YXE	Saskatoon
+YXH	Medicine Hat
+YXJ	Fort Saint John
+YXL	Sioux Lookout
+YXP	Pangnirtung
+YXR	Earlton
+YXS	Prince George
+YXT	Terrace
+YXU	London
+YXX	Abbotsford
+YXY	Whitehorse
+YYB	North Bay
+YYC	Calgary
+YYD	Smithers
+YYE	Fort Nelson
+YYF	Penticton
+YYG	Charlottetown
+YYH	Spence Bay
+YYJ	Victoria
+YYL	Lynn Lake
+YYN	Swift Current
+YYQ	Churchill
+YYR	Goose Bay
+YYT	St. John's
+YYU	Kapuskasing
+YYW	Armstrong
+YYY	Mont Joli
+YYZ	Toronto
+YZD	Toronto
+YZE	Gore Bay
+YZF	Yellowknife
+YZH	Slave Lake
+YZP	Sandspit
+YZR	Sarnia
+YZT	Port Hardy
+YZU	Whitecourt
+YZV	Sept-iles
+YZW	Teslin
+YZX	Greenwood
+ZFA	Faro
+ZFM	Fort Mcpherson
+QLD	Blida
+BUJ	Bou Saada
+BJA	Bejaja
+ALG	Algier
+DJG	Djanet
+VVZ	Illizi
+TMR	Tamanrasset
+GJL	Jijel
+MZW	Mecheria
+AAE	Annaba
+CZL	Constantine
+TEE	Tebessa
+HRM	Tilrempt
+TID	Tiaret
+TIN	Tindouf
+CFK	Ech-cheliff
+TAF	Oran
+TLM	Tlemcen
+ORN	Oran
+BFW	Sidi Bel Abbes
+MUW	Ghriss
+AZR	Adrar
+BSK	Biskra
+ELG	El Golea
+GHA	Ghardaia
+HME	Hassi Messaoud
+INZ	In Salah
+TGR	Touggourt
+LOO	Laghouat
+TMX	Timimoun
+OGX	Ouargla
+IAM	Zarzaitine
+COO	Cotonou
+OUA	Ouagadougou
+BOY	Bobo-dioulasso
+ACC	Accra
+TML	Tamale
+NYI	Sunyani
+TKD	Takoradi
+ABJ	Abidjan
+BYK	Bouake
+DJO	Daloa
+HGO	Korhogo
+MJC	Man
+SPY	San Pedro
+ASK	Yamoussoukro
+ABV	Abuja
+AKR	Akure
+BNI	Benin
+CBQ	Calabar
+ENU	Enugu
+IBA	Ibadan
+ILR	Ilorin
+JOS	Jos
+KAD	Kaduna
+KAN	Kano
+MIU	Maiduguri
+MDI	Makurdi
+LOS	Lagos
+MXJ	Minna
+PHC	Port Hartcourt
+SKO	Sokoto
+YOL	Yola
+ZAR	Zaria
+MFQ	Maradi
+NIM	Niamey
+THZ	Tahoua
+AJY	Agadez
+ZND	Zinder
+MIR	Monastir
+TUN	Tunis
+GAF	Gafsa
+GAE	Gabes
+DJE	Djerba
+EBM	El Borma
+SFA	Sfax
+TOE	Tozeur
+LRL	Niatougou
+LFW	Lome
+ANR	Antwerp
+BRU	Brussels
+CRL	Charleroi
+KJK	Kortrijk-vevelgem
+LGG	Liege
+OST	Ostend
+OBL	Zoersel
+AOC	Altenburg
+IES	Riesa
+REB	Rechlin-laerz
+QXH	Schoenhagen
+BBH	Barth
+ZMG	Magdeburg
+CBU	Cottbus
+SXF	Berlin
+DRS	Dresden
+ERF	Erfurt
+FRA	Frankfurt
+FMO	Munster
+HAM	Hamburg
+THF	Berlin
+CGN	Cologne
+DUS	Duesseldorf
+MUC	Munich
+NUE	Nuernberg
+LEJ	Leipzig
+SCN	Saarbruecken
+STR	Stuttgart
+TXL	Berlin
+HAJ	Hannover
+BRE	Bremen
+QEF	Egelsbach
+HHN	Hahn
+MHG	Mannheim
+EIB	Eisenach
+SGE	Siegerland
+XFW	Hamburg
+KEL	Kiel
+LBC	Luebeck
+ESS	Essen
+BFE	Bielefeld
+MGL	Moenchengladbach
+PAD	Paderborn
+DTM	Dortmund
+AGB	Augsburg
+OBF	Oberpfaffenhofen
+RBM	Straubing
+FDH	Friedrichshafen
+SZW	Parchim
+BYU	Bayreuth
+URD	Burg Feuerstein
+HOQ	Hof
+ZQW	Zweibruecken
+ZQL	Donaueschingen
+BWE	Braunschweig
+KSF	Kassel
+BRV	Bremerhaven
+EME	Emden
+WVN	Wilhelmshaven
+BMK	Borkum
+NRD	Norderney
+FLF	Flensburg
+GWT	Westerland
+KDL	Kardla
+URE	Kuressaare
+EPU	Parnu
+TLL	Tallinn-ulemiste International
+TAY	Tartu
+ENF	Enontekio
+KEV	Halli
+HEM	Helsinki
+HEL	Helsinki
+HYV	Hyvinkaa
+KTQ	Kitee
+IVL	Ivalo
+JOE	Joensuu
+JYV	Jyvaskyla
+KAU	Kauhava
+KEM	Kemi
+KAJ	Kajaani
+KHJ	Kauhajoki
+KOK	Kruunupyy
+KAO	Kuusamo
+KTT	Kittila
+KUO	Kuopio
+QLF	Vesivehmaa
+LPP	Lappeenranta
+MHQ	Mariehamn
+MIK	Mikkeli
+OUL	Oulu
+POR	Pori
+RVN	Rovaniemi
+SVL	Savonlinna
+SOT	Sodankyla
+TMP	Tampere
+TKU	Turku
+UTI	Utti
+VAA	Vaasa
+VRK	Varkaus
+YLI	Ylivieska-raudaskyla
+BFS	Belfast
+ENK	Enniskillen
+BHD	Belfast
+LDY	Londonderry
+BHX	Birmingham
+CVT	Coventry
+GLO	Golouchestershire
+GBA	Pailton
+MAN	Manchester
+NQY	Newquai
+LYE	Lyneham
+YEO	Yeovilton
+HAW	Haverfordwest
+CWL	Cardiff
+SWS	Swansea
+BRS	Bristol
+LPL	Liverpool
+LTN	London
+PLH	Plymouth
+BOH	Bournemouth
+SOU	Southampton
+QLA	Lasham
+ACI	Alderney
+GCI	Guernsey
+JER	Jersey
+ESH	Shoreham By Sea
+BQH	Biggin Hill
+LGW	London
+LCY	London
+FAB	Farnborough
+BBS	Blackbushe
+LHR	London
+SEN	Southend
+LYX	Lydd
+MSE	Manston
+CAX	Carlisle
+BLK	Blackpool
+HUY	Humberside
+BWF	Barrow Island
+LBA	Leeds
+WRT	Warton
+CEG	Hawarden
+IOM	Isle Of Man
+NCL	Newcastle
+MME	Teesside
+EMA	East Midlands
+KOI	Kirkwall
+LSI	Sumburgh
+WIC	Wick
+ABZ	Aberdeen
+INV	Inverness
+GLA	Glasgow
+EDI	Edinburgh
+ILY	Islay
+PIK	Prestwick
+BEB	Benbecula
+SCS	Scatsta
+DND	Dundee
+SYY	Stornoway
+TRE	Tiree
+ADX	Leuchars
+LMO	Lossiemouth
+CBG	Cambridge
+NWI	Norwich
+STN	London
+EXT	Exeter
+FZO	Bristol
+OXF	Oxford
+BEX	Benson
+LKZ	Lakenheath
+MHZ	Mildenhall
+QUY	Wyton
+FFD	Fairford
+BZZ	Brize Norton
+ODH	Odiham
+NHT	Northolt
+QCY	Coningsby
+BEQ	Honington
+SQZ	Scampton
+HRT	Linton-on-ouse
+WTN	Waddington
+KNF	Marham
+MPN	Mount Pleasant
+AMS	Amsterdam
+MST	Maastricht
+EIN	Eindhoven
+GRQ	Groningen
+GLZ	Gilze-rijen
+DHR	De Kooy
+LEY	Lelystad
+LWR	Leeuwarden
+RTM	Rotterdam
+UTC	Soesterberg
+ENS	Enschede
+LID	Valkenburg
+WOE	Woensdrecht
+ORK	Cork
+GWY	Galway
+DUB	Dublin
+NOC	Connaught
+KIR	Kerry
+SNN	Shannon
+SXL	Sligo
+WAT	Waterford
+AAR	Aarhus
+BLL	Billund
+CPH	Copenhagen
+EBJ	Esbjerg
+KRP	Karup
+BYR	Laeso
+MRW	Maribo
+ODE	Odense
+RKE	Copenhagen
+RNN	Ronne
+SGD	Soenderborg
+SKS	Skrydstrup
+SQW	Skive
+TED	Thisted
+FAE	Vagar
+STA	Stauning
+AAL	Aalborg
+LUX	Luxemburg
+ANX	Andoya
+ALF	Alta
+BNN	Bronnoysund
+BOO	Bodo
+BGO	Bergen
+BJF	Batsfjord
+KRS	Kristiansand
+DLD	Geilo
+BDU	Bardufoss
+VDB	Fagernes
+FRO	Floro
+OSL	Oslo
+HAU	Haugesund
+HAA	Hasvik
+KSU	Kristiansund
+KKN	Kirkenes
+FAN	Farsund
+MOL	Molde
+MJF	Mosjoen
+LKL	Lakselv
+NTB	Notodden
+OLA	Orland
+RRS	Roros
+SKE	Skien
+SRP	Stord
+SSJ	Sandnessjoen
+TOS	" Torp"""
+TRD	Trondheim
+SVG	Stavanger
+GDN	Gdansk
+KRK	Krakow
+KTW	Katowice
+POZ	Poznan
+RZE	Rzeszow
+SZZ	Szczecin
+OSP	Slupsk
+WAW	Warsaw
+WRO	Wroclaw
+IEG	Zielona Gora
+RNB	Ronneby
+GOT	Gothenborg
+JKG	Joenkoeping
+LDK	Lidkoping
+GSE	Gothenborg
+KVB	Skovde
+THN	Trollhattan
+KSK	Karlskoga
+MXX	Mora
+NYO	Stockholm
+KID	Kristianstad
+OSK	Oskarshamn
+KLR	Kalkmar
+MMX	Malmoe
+HAD	Halmstad
+VXO	Vaxjo
+EVG	Sveg
+GEV	Gallivare
+HUV	Hudiksvall
+KRF	Kramfors
+LYC	Lycksele
+SDL	Sundsvall
+OER	Ornskoldsvik
+KRN	Kiruna
+SFT	Skelleftea
+UME	Umea
+VHM	Vilhelmina
+AJR	Arvidsjaur
+ORB	Orebro
+VST	Vasteras
+LLA	Lulea
+ARN	Stockholm
+BMA	Stockholm
+BLE	Borlange
+HLF	Hultsfred
+GVX	Gavle
+LPI	Linkoeping
+NRK	Norrkoeping
+EKT	Eskilstuna
+VBY	Visby
+SPM	Spangdahlem
+RMS	Ramstein
+GHF	Giebelstadt
+ZCN	Celle
+FRZ	Fritzlar
+ZNF	Hanau
+KZG	Kitzingen
+FCN	Nordholz
+GKE	Geilenkirchen
+RLG	Laage
+WBG	Schleswig
+WIE	Wiesbaden
+FEL	Fuerstenfeldbruck
+IGS	Ingolstadt
+GUT	Guetersloh
+ALJ	Alexander Bay
+AGZ	Aggeneys
+BIY	Bisho
+BFN	Bloemfontein
+CPT	Cape Town
+DUR	Durban
+ELS	East London
+FCB	Ficksburg
+GCJ	Johannesburg
+GRJ	George
+HRS	Harrismith
+HDS	Hoedspruit
+JNB	Johannesburg
+KXE	Klerksdorp
+KIM	Kimberley
+KMH	Kuruman
+KLZ	Kleinsee
+HLA	Johannesburg
+SDB	Langebaanweg
+LAY	Ladysmith
+MGH	Margate
+LLE	Malalane
+MZQ	Mkuze
+NCS	Newcastle
+OVG	Overberg
+OUH	Oudtshoorn
+PLZ	Port Elizabeth
+PBZ	Plettenberg Bay
+PHW	Phalaborwa
+JOH	Port Saint Johns
+PZB	Pietermaritzburg
+NTY	Pilanesberg
+PTG	Potgietersrus
+PCF	Potchefstroom
+UTW	Queenstown
+RCB	Richard's Bay
+ROD	Robertson
+SBU	Springbok
+ZEC	Secunda
+SIS	Sishen
+SZK	Skukuza
+LTA	Tzaneen
+ULD	Ulundi
+UTN	Upington
+UTT	Umtata
+VRU	Vryburg
+VIR	Durban
+VRE	Vredendal
+PRY	Pretoria
+WKF	Waterkloof
+FRW	Francistown
+JWA	Jwaneng
+BBK	Kasane
+MUB	Maun
+GBE	Gaberone
+PKW	Selebi-phikwe
+BZV	Brazzaville
+FTX	Owando
+OUE	Ouesso
+PNR	Pointe-noire
+MTS	Manzini
+BGF	Bangui
+BBT	Berberati
+BSG	Bata
+SSG	Malabo
+ASI	Wide Awake
+MRU	Plaisance
+RRG	Rodriguez Island
+NKW	Diego Garcia Island
+TKC	Tiko
+DLA	Douala
+MVR	Maroua
+FOM	Foumban
+NGE	N'gaoundere
+GOU	Garoua
+BFX	Bafoussam
+BPC	Bamenda
+YAO	Yaounde
+CGJ	Kasompe
+LVI	Livingstone
+LUN	Lusaka
+MFU	Mfuwe
+MNR	Mongu
+NLA	Ndola
+KIW	Southdowns
+HAH	Moroni
+NWA	Moheli
+AJN	Anjouan
+DZA	Dzaoudzi
+RUN	St.-denis
+ZSE	St.-pierre
+TNR	Antananarivo
+ZVA	Miandrivazo
+SMS	Sainte Marie
+TMM	Toamasina
+MOQ	Morondava
+DIE	Antsiranana
+WMR	Mananara
+ZWA	Andapa
+AMB	Ambilobe
+ANM	Antalaha
+HVA	Analalava
+MJN	Mahajanga
+NOS	Nosy-be
+BPY	Besalampy
+WMN	Maroantsetra
+SVB	Sambava
+VOH	Vohemar
+WAI	Antsohihy
+IVA	Ampampamena
+FTU	Tolagnaro
+WFI	Fianarantsoa
+RVA	Farafangana
+WVK	Manakara
+MNJ	Mananjary
+MXM	Morombe
+TLE	Toliara
+SSY	M'banza-congo
+BUG	Benguela
+CAB	Cabinda
+NOV	Huambo
+SVP	Kuito
+LAD	Luanda
+MEG	Malanje
+SPP	Menongue
+GXG	Negage
+PBN	Porto Amboim
+VHC	Saurimo
+SZA	Soyo
+SDD	Lubango
+LUO	Luena
+UGO	Uige
+XGN	Xangongo
+OYE	Oyem
+OKN	Okondja
+LBQ	Lambarene
+BMM	Bitam
+POG	Port Gentil
+OMB	Omboue Hospial
+MKU	Makokou
+LBV	Libreville
+MVB	Franceville
+PCP	Principe
+TMS	Sao Tome
+BEW	Beira
+INH	Inhambane
+VXC	Lichinga
+LFB	Lumbo
+MPM	Maputo
+MUD	Mueda
+MZB	Mocimboa Da Praia
+MNC	Nacala
+APL	Nampula
+POL	Pemba
+UEL	Quelimane
+TET	Tete
+VNX	Vilankulu
+DES	Desroches
+SEZ	Mahe
+PRI	Praslin
+AEH	Abeche
+MQQ	Moundou
+NDJ	N'djamena
+FYT	Faya-largeau
+BUQ	Bulawayo
+BFO	Chiredzi
+VFA	Victoria Falls
+HRE	Harare
+KAB	Kariba
+UTA	Mutare
+MVZ	Masvingo
+GWE	Gwert
+HWN	Hwange National Park
+BLZ	Blantyre
+KGJ	Karonga
+KBQ	Kasungu
+LLW	Lilongwe
+ZZU	Mzuzu
+MSU	Maseru
+FIH	Kinshasa
+NLO	Kinshasa
+MNB	Muanda
+FDU	Bandoundu
+KKW	Kikwit
+MDK	Mbandaka
+BDT	Gbadolite
+GMA	Gemena
+KLI	Kotakoli
+LIQ	Lisala
+FKI	Kisangani
+IRP	Isiro
+BUX	Bunia
+BZU	Buta Zega
+BKY	Bukavu/kavumu
+GOM	Goma
+KND	Kindu
+FBM	Lubumashi
+KWZ	Kolwezi
+FMI	Kalemie
+KMN	Kamina Base
+KGA	Kananga
+MJM	Mbuji-mayi
+BKO	Bamako
+GAQ	Gao
+KYS	Kayes
+MZI	Mopti
+TOM	Tombouctou
+BJL	Banjul
+FUE	Fuerteventura
+VDE	Hierro
+SPC	Santa Cruz De La Palma
+LPA	Gran Canaria
+ACE	Arrecife
+TFS	Tenerife
+TFN	Tenerife
+MLN	Melilla
+FNA	Freetown
+MLW	Monrovia
+ROB	Monrovia
+AGA	Agadir
+TTA	Tan Tan
+FEZ	Fes
+ERH	Er-rachidia
+MEK	Meknes
+OUD	Oujda
+GMD	Ben Slimane
+RBA	Rabat
+CMN	Casablanca
+RAK	Marrakech
+NNA	Kentira
+OZZ	Ouarzazate
+AHU	Al Hociema
+TTU	Tetouan
+TNG	Tanger
+ZIG	Ziguinchor
+CSK	Cap Skiring
+KLC	Kaolack
+DKR	Dakar
+XLS	St. Louis
+BXE	Bakel
+KGG	Kedougou
+TUD	Tambacounda
+AEO	Aioun El Atrouss
+TIY	Tidjikja
+KFA	Kiffa
+EMN	Nema
+KED	Kaedi
+NKC	Nouakschott
+SEY	Selibabi
+ATR	Atar
+NDB	Nouadhibou
+FIG	Fira
+FAA	Faranah
+LEK	Labe
+SID	Amilcar Cabral
+BVC	Boa Vista
+MMO	Maio
+SNE	Sao Nocolau Island
+VXE	Sao Vicente Island
+ADD	Addis Ababa
+AMH	Arba Minch
+AXU	Axum
+BJR	Bahar Dar
+DIR	Dire Dawa
+GMB	Gambella
+GDQ	Gondar
+JIM	Jimma
+LLI	Lalibella
+MQX	Makale
+ASO	Asosa
+BJM	Bujumbura
+HGA	Hargeisa
+BBO	Berbera
+KMU	Kismayu
+ALY	Alexandria
+ABS	Abu Simbel
+CAI	Cairo
+CWE	Cairo
+HRG	Hurghada
+EGH	El Gorah
+LXR	Luxor
+MUH	Mersa-matruh
+PSD	Port Said
+SKV	St. Catherine
+ASW	Aswan
+ELT	El-tor
+EDL	Eldoret
+GGM	Kakamega
+KIS	Kisumu
+KTL	Kitale
+LOK	Lodwar
+LAU	Lamu
+MBA	Mombasa
+WIL	Nairobi
+WJR	Wajir
+GHT	Ghat
+AKF	Kufra
+BEN	Benghazi
+SEB	Sebha
+TIP	Tripoli
+LMQ	Marsa Brega
+HUQ	Hon
+LTD	Ghadames
+GYI	Gisenyi
+KGL	Kigali
+KME	Kamembe
+DOG	Dongola
+RSS	Damazin
+ELF	El Fasher
+KSL	Kassala
+KDX	Kadugli
+EBD	El Obeid
+JUB	Juba
+MAK	Malakal
+KRT	Khartoum
+ARK	Arusha
+DAR	Dar Es Salaam
+DOD	Dodoma
+IRI	Iringa
+JRO	Kilimanjaro
+LKY	Lake Manyara
+MYW	Mtwara
+MWZ	Mwanza
+PMA	Pemba
+TGT	Tanga
+ZNZ	Zanzibar
+EBB	Entebbe
+SRT	Soroti
+TIA	Tirana
+BOJ	Bourgas
+GOZ	Gorna Orechovica
+PDV	Plovdiv
+SOF	Sofia
+SZR	Stara Zagora
+VAR	Varna
+LCA	Larnaca
+PFO	Paphos
+AKT	Akrotiri
+DBV	Dubrovnik
+OSI	Osijek
+PUY	Pula
+RJK	Rijeka
+SPU	Split
+ZAG	Zagreb
+ZAD	Zadar
+ABC	Albacete
+ALC	Alicante
+LEI	Almeria
+OVD	Aviles
+ODB	Cordoba
+BIO	Bilbao
+BCN	Barcelona
+BJZ	Badajoz
+LCG	La Coruna
+GRO	Gerona
+GRX	Granada
+IBZ	Ibiza
+XRY	Jerez
+MJV	Murcia
+MAD	Madrid
+AGP	Malaga
+MAH	Menorca
+OZP	Sevilla
+PNA	Pamplona
+REU	Reus
+ROZ	Rota
+SLM	Salamanca
+EAS	San Sebastian
+SCQ	Santiago
+LEU	Seo De Urgel
+TOJ	Madrid
+VLC	Valencia
+VLL	Valladolid
+VIT	Vitoria
+VGO	Vigo
+SDR	Santander
+ZAZ	Zaragoza
+SVQ	Sevilla
+CQF	Calais
+BYF	Albert
+LTQ	Le Tourquet
+XVS	Valenciennes
+AGF	Agen
+BOD	Bordeaux
+EGC	Bergerac
+CNG	Cognac
+PIS	Poitiers
+MCU	Montlucon-gueret
+LIG	Limoges
+NIT	Niort
+TLS	Toulouse
+PUF	Pau
+LDE	Tarbes
+ANG	Angouleme
+BVE	Brive
+PGX	Perigueux
+BIQ	Biarritz-bayonne
+ZAO	Cahors
+LBI	Albi
+DCM	Castres
+RDZ	Rodez
+RYN	Royan
+XMW	Montauban
+RCO	Rochefort
+CMR	Colmar
+DLE	Dole
+OBS	Aubenas-vals-lanas
+LPY	Le Puy
+ETZ	Metz
+BIA	Bastia
+CLY	Calvi
+FSC	Figari
+AJA	Ajaccio
+PRP	Propriano
+SOZ	Solenzara
+AUF	Auxerre
+CMF	Chambery
+CFE	Clermont-Ferrand
+BOU	Bourges
+QNJ	Annemasse
+LYS	Lyon
+SYT	St.-yan
+RNE	Roanne
+NCY	Annecy
+GNB	Grenoble
+VAF	Valence
+VHY	Vichy
+AUR	Aurillac
+CHR	Chateauroux
+LYN	Lyon
+CEQ	Cannes
+EBU	St-Etienne
+CCF	Carcassonne
+MRS	Marseille
+NCE	Nice
+XOG	Orange
+PGF	Perpignan
+CTT	Le Castellet
+MPL	Montpellier
+BZR	Beziers
+AVN	Avignon
+MEN	Mende
+BVA	Beauvais
+EVX	Evreux
+LEH	Le Havre
+XAB	Abbeville
+ORE	Orleans
+XCR	Chalons
+URO	Rouen
+TUF	Tours
+CET	Cholet
+LVA	Laval
+LBG	Paris
+CSF	Creil
+CDG	Paris
+TNF	Toussous-le-noble
+ORY	Paris
+POX	Pontoise
+VIY	Villacoublay
+NVS	Nevers
+XME	Maubeuge
+LIL	Lille
+HZB	Merville
+XCZ	Charleville
+BES	Brest
+CER	Cherbourg
+DNR	Dinard
+LBY	La Baule
+GFR	Granville
+DOL	Deauville
+LRT	Lorient
+EDM	La Roche-sur-yon
+LDV	Landivisiau
+CFR	Caen
+LME	Le Mans
+RNS	Rennes
+LAI	Lannion
+UIP	Quimper
+NTE	Nantes
+SBK	St.-brieuc Armor
+MXN	Morlaix
+VNE	Vannes
+SNR	St.-nazaire
+BSL	Mulhouse
+DIJ	Dijon
+MZM	Metz
+EPL	Epinal
+ENC	Nancy
+RHE	Reims
+SXB	Strasbourg
+TLN	Hyeres
+FNI	Nimes
+MQC	Miquelon
+FSP	St.-pierre
+PYR	Andravida
+AGQ	Agrinion
+AXD	Alexandroupolis
+VOL	Nea Anghialos
+JKH	Chios
+IOA	Ioannina
+HER	Heraklion
+KSO	Kastoria
+KIT	Kithira
+EFL	Keffallinia
+KLX	Kalamata
+KGS	Kos
+AOK	Karpathos
+CFU	Kerkyra/corfu
+KSJ	Kasos
+KVA	Kavala
+KZI	Kozani
+LRS	Leros
+LXS	Limnos
+LRA	Larissa
+JMK	Mykonos
+MJT	Mytilini
+PVK	Preveza
+RHO	Rhodos
+GPA	Patras
+CHQ	Chania
+JSI	Skiathos
+SMI	Samos
+SPJ	Sparti
+JTR	Thira
+JSH	Sitia
+SKU	Skiros
+SKG	Thessaloniki
+ZTH	Zakynthos
+BUD	Budapest
+DEB	Debrecen
+CRV	Crotone
+BRI	Bari
+FOG	Foggia
+TAR	Grottaglie
+LCC	Lecce
+PSR	Pescara
+BDS	Brindisi
+SUF	Lamezia
+CTA	Catania
+LMP	Lampedusa
+PNL	Pantelleria
+PMO	Palermo
+REG	Reggio Calabria
+TPS	Trapani
+NSY	Sigonella
+AHO	Alghero
+DCI	Decimomannu
+CAG	Cagliari
+OLB	Olbia
+TTB	Tortoli
+MXP	Milano
+BGY	Bergamo
+TRN	Torino
+ALL	Albenga
+GOA	Genoa
+LIN	Milan
+PMF	Parma
+CUF	Cuneo
+AVB	Aviano
+BZO	Bolzano
+BLQ	Bologna
+TSF	Treviso
+FRL	Forli
+VBS	Brescia
+TRS	Ronchi De Legionari
+RMI	Rimini
+VIC	Vicenza
+QPA	Padova
+VRN	Villafranca
+VCE	Venice
+SAY	Siena
+CIA	Rome
+FCO	Rome
+EBA	Marina Di Campo
+QLT	Latina
+NAP	Naples
+PSA	Pisa
+FLR	Florence
+GRS	Grosseto
+PEG	Perugia
+LJU	Ljubljana
+MBX	Maribor
+POW	Portoroz
+UHE	Kunovice
+KLV	Karlovy Vary
+OSR	Ostrava
+PED	Pardubice
+PRV	Prerov
+PRG	Prague
+BRQ	Brno
+VOD	Vodochody
+TLV	Tel-aviv
+BEV	Beer-sheba
+ETH	Elat
+EIY	Eyn-yahav
+HFA	Haifa
+RPN	Rosh Pina
+MTZ	Metzada
+VTM	Nevatim
+VDA	Ovda
+MIP	Ramon
+SDV	Tel-aviv
+MLA	Malta
+GRZ	Graz
+INN	Innsbruck
+LNZ	Linz
+SZG	Salzburg
+VIE	Vienna
+AVR	Alverca
+SMA	Santa Maria (island)
+BGC	Braganca
+BYJ	Beja (madeira)
+BGZ	Braga
+CAT	Cascais
+FLW	Flores
+FAO	Faro
+GRW	Graciosa Island
+HOR	Horta
+TER	Lajes (terceira Island)
+QLR	Monte Real
+PDL	Ponta Delgada
+PIX	Pico
+PRM	Portimao
+OPO	Porto
+PXO	Porto Santo
+LIS	Lisbon
+SJZ	Sao Jorge Island
+VRL	Vila Real
+VSE	Viseu
+OMO	Mostar
+SJJ	Sarajevo
+ARW	Arad
+BCM	Bacau
+BAY	Baia Mare
+BBU	Bucharest
+CND	Constanta
+CLJ	Cluj-napoca
+CSB	Caransebes
+CRA	Craiova
+IAS	Iasi
+OMR	Oradea
+OTP	Bucharest
+SBZ	Sibiu
+SUJ	Satu Mare
+SCV	Suceava
+TCE	Tulcea
+TGM	Tirgu Mures
+TSR	Timisoara
+GVA	Geneva
+SIR	Sion
+EML	Emmen
+LUG	Lugano
+BRN	Bern
+ZHI	Grenchen
+ZRH	Zurich
+ACH	Altenrhein
+SMV	Samedan
+ESB	Ankara
+ANK	Ankara
+ADA	Adana
+UAB	Adana
+AFY	Afyon
+AYT	Antalya
+GZT	Gaziantep
+KYA	Konya
+MZH	Merzifon
+VAS	Sivas
+MLX	Malatya
+ASR	Kayseri
+TJK	Tokat
+DNZ	Denizli
+ISL	Istanbul
+BZI	Balikesir
+BDM	Bandirma
+ESK	Eskisehir
+ADB	Izmir
+IGL	Izmir
+KCO	Topel
+DLM	Dalaman
+BXN	Bodrum
+EZS	Elazig
+DIY	Diyabakir
+ERC	Erzincan
+ERZ	Erzurum
+TZX	Trabzon
+VAN	Van
+BAL	Batman
+SXZ	Siirt
+BZY	Saltsy
+KIV	Chisinau
+OHD	Ohrid
+SKP	Skopje
+GIB	Gibraltar
+BEG	Belgrade
+INI	Nis
+TGD	Podgorica
+PRN	Pristina
+TIV	Tivat
+BTS	Bratislava
+KSC	Kosice
+PZY	Piestany
+SLD	Sliac
+TAT	Poprad
+NCA	North Caicos
+PLS	Providenciales
+XSC	South Caicos
+BRX	Barahona
+CBJ	Cabo Rojo
+LRM	La Romana
+PUJ	Punta Cana
+POP	Puerto Plata
+SDQ	Santo Domingo
+STI	Santiago
+CBV	Coban
+GUA	Guatemala City
+RER	Retalhuleu
+GSJ	San Jose
+LCE	La Ceiba
+SAP	San Pedro Sula
+GJA	Guanaja
+RTB	Roatan
+TEA	Tela
+TGU	Tegucigalpa
+TJI	Trujillo
+OCJ	Ocho Rios
+KIN	Kingston
+MBJ	Montego Bay
+POT	Port Antonio
+KTP	Kingston
+ACA	Acapulco
+NTR	Monterrey
+AGU	Aguascalientes
+HUX	Huatulco
+CVJ	Cuernavaca
+ACN	Ciudad Acuna
+CME	Ciudad Del Carmen
+NCG	Nuevo Casas Grandes
+CUL	Culiacan
+CTM	Chetumal
+CEN	Ciudad Obregon
+CPE	Campeche
+CJS	Ciudad Juarez
+CUU	Chihuahua
+CVM	Ciudad Victoria
+CZM	Cozumel
+DGO	Durango
+TPQ	Tepic
+ESE	Ensenada
+GDL	Guadalajara
+GYM	Guaymas
+TCN	Tehuacan
+HMO	Hermosillo
+CLQ	Colima
+ISJ	Isla Mujeres
+SLW	Saltillo
+IZT	Iztepec
+LZC	Lazard Cardenas
+LMM	Los Mochis
+BJX	Del Bajio
+LAP	La Paz
+LTO	Loreto
+MAM	Matamoros
+MID	Merida
+MXL	Mexicali
+MLM	Morelia
+MTT	Minatitlan
+LOV	Monclova
+MEX	Mexico City
+MTY	Monterrey
+MZT	Mazatlan
+NOG	Nogales
+NLD	Nuevo Laredo
+OAX	Oaxaca
+PAZ	Poza Rico
+PBC	Puebla
+PPE	Punta Penasco
+PDS	Piedras Negras
+UPN	Uruapan
+PVR	Puerto Vallarta
+PXM	Puerto Escondido
+QRO	Queretaro
+REX	Reynosa
+SJD	San Jose Del Cabo
+SFH	San Filipe
+SLP	San Luis Potosi
+TRC	Torreon
+TGZ	Tuxtla Gutierrez
+TIJ	Tijuana
+TAM	Tampico
+TSL	Tamuin
+TLC	Toluca
+TAP	Tapachula
+CUN	Cancun
+VSA	Villahermosa
+VER	Vera Cruz
+ZCL	Zacatecas
+ZIH	Zihuatanejo
+ZMM	Zamora
+ZLO	Manzanillo
+BEF	Bluefields
+MGA	Managua
+PUZ	Puerto Cabezas
+BOC	Bocas Del Toro
+CHX	Changuinola
+DAV	David
+BLB	Howard
+PAC	Panama
+SYP	Santiago
+PTY	Panama City
+BAI	Buenos Aires
+OTR	Coto 47
+JAP	Chacarita
+GLF	Golfito
+GPL	Guapiles
+LIR	Liberia
+LSL	Los Chiles
+LIO	Limon
+NOB	Nosara Beach
+SJO	San Jose
+PMZ	Palmar Sur
+XQP	Quepos
+TOO	San Vito De Jaba
+SAL	San Salvador
+CYA	Cayes
+CAP	Cap Haitien
+JAK	Jacmel
+PAP	Port-au-prince
+BCA	Baracoa Playa
+BYM	Bayamo
+AVI	Ciego De Avila
+CCC	Cunagua
+CFG	Cienfuegos
+CYO	Cayo Largo del Sur
+CMW	Camaguey
+SCU	Santiago De Cuba
+NBW	Guantanamo
+GAO	Guantanamo
+HAV	Havana
+HOG	Holguin
+LCL	La Coloma
+MOA	Moa
+MZO	Manzanillo
+GER	Nueva Gerona
+UPB	Baracoa Playa
+QPD	Pinar Del Rio Norte
+SNU	Santa Clara
+SZJ	Siguanea
+USS	Sancti Spiritus
+VRA	Varadero
+VTU	Las Tunas
+CYB	Cayman Brac
+GCM	Georgetown
+MAY	Clarence Bain
+ASD	Andros Town
+MHH	Marsh Harbor
+SAQ	San Andros
+AXP	Spring Point
+TCB	Treasure Cay
+CCZ	Chub Cay
+GHC	Bullocks Harbour
+BIM	Alice Town
+GGT	Great Exuma
+ELH	North Eleuthera
+GHB	Governor's Harbor
+NMC	Norman's Cay
+RSD	Rock Sound
+TYM	Staniel Cay
+FPO	Freeport
+IGA	Matthew Town
+LGI	Dead Man's Cay
+SML	Stella Maris
+MYG	Mayaguana
+NAS	Nassau
+DCT	Duncan Town
+RCY	Port Nelson
+ZSA	Cockburn Town
+BZE	Belize City
+AIT	Aitutaki
+RAR	Avarua
+NAN	Nandi
+SUV	Nausori
+TBU	Tongatapu
+VAV	Vava'u
+TRW	Tarawa
+TBF	Tabiteuea North
+WLS	Wallis
+APW	Faleolo
+PPG	Pago Pago
+RUR	Rurutu
+TUB	Tubuai
+AAA	Anaa
+FGU	Fangatau
+TIH	Tikehau
+REA	Reao
+FAV	Fakarava
+XMH	Manihi
+GMR	Totegegie
+KKR	Kaukura Atoll
+MKP	Makemo
+PKP	Puka Puka
+TKP	Takapoto
+AXR	Arutua
+MVT	Mataiva
+TKX	Takaroa
+NHV	Nuku Hiva
+BOB	Bora Bora
+RGI	Rangiroa
+HUH	Huahine Island
+MOZ	Moorea
+HOI	Hao Island
+MAU	Maupiti
+RFP	Raiatea Island
+VLI	Port-vila
+KNQ	Kone
+KOC	Koumac
+LIF	Lifou
+GEA	Noumea
+MEE	Mare
+TOU	Touho
+UVE	Ouvea
+NOU	Noumea
+AKL	Auckland
+TUO	Taupo
+AMZ	Ardmore
+CHC	Christchurch
+CHT	Chatham Island
+DUD	Dunedin
+GIS	Gisborne
+GTN	Glentanner
+HKK	Hokitika
+HLZ	Hamilton
+KKE	Kerikeri
+KAT	Kaitaia
+ALR	Alexandra
+MON	Mount Cook
+TEU	Manapouri
+MRO	Masterton
+NPL	New Plymouth
+NSN	Nelson
+IVC	Invercargill
+OHA	Ohakea
+OAM	Oamaru
+PMR	Palmerston North
+PPQ	Paraparaumu
+ZQN	Queenstown International
+ROT	Rotorua
+TRG	Tauranga
+TIU	Timaru
+TWZ	Pukaki
+BHE	Woodbourne
+WKA	Wanaka
+WHK	Whakatane
+WLG	Wellington
+WIR	Wairoa
+WRE	Whangarei
+WSZ	Westport
+WAG	Wanganui
+HEA	Herat
+JAA	Jalalabad
+KBL	Kabul
+KDH	Kandahar
+MMZ	Maimama
+MZR	Mazar-i-sharif
+OAH	Shindand
+UND	Kunduz
+BAH	Bahrain
+AHB	Abha
+HOF	Al-ahsa
+ABT	El-baha
+BHH	Bisha
+DMM	Dammam
+DHA	Dhahran
+GIZ	Gizan
+ELQ	Gassim
+URY	Guriat
+HAS	Hail
+QJB	Jubail
+JED	Jeddah
+KMC	King Khalid Mil.city
+MED	Madinah
+EAM	Nejran
+AQI	Hafr Al-batin
+RAH	Rafha
+RUH	Riyadh
+RAE	Arar
+SHW	Sharurah
+SLF	Sulayel
+TUU	Tabuk
+TIF	Taif
+TUI	Turaif
+EJH	Wejh
+YNB	Yenbo
+ABD	Abadan
+DEF	Dezful
+AKW	Aghajari
+GCH	Gachsaran
+OMI	Omidyeh
+MRX	Bandar Mahshahr
+AWZ	Ahwaz
+AEU	Abumusa I.
+BUZ	Bushehr
+KIH	Kish Island
+BDH	Bandar Lengeh
+KHK	Khark Island
+SXI	Siri Island
+LVP	Lavan Island
+KSH	Bakhtaran
+SDG	Sanandaj
+IFH	Daran
+KKS	Kashan
+IFN	Esfahan
+RAS	Rasht
+AJK	Arak
+THR	Teheran
+GZW	Ghazvin
+BND	Bandar Abbas
+JYR	Jiroft
+KER	Kerman
+HDR	Bandar Abbas
+SYJ	Sirjan
+XBJ	Birjand
+CKT	Sarakhs
+RUD	Emam Shahr
+TCX	Tabas
+KLM	Kalaleh
+RZR	Ramsar
+FAZ	Fasa
+JAR	Jahrom
+LFM	Lamerd
+SYZ	Shiraz
+KHY	Khoy
+TBZ	Tabriz
+JWN	Zanjan
+AZD	Yazd
+ACZ	Zabol
+ZBR	Chah Bahar
+ZAH	Zahedan
+IHR	Iran Shahr
+AMM	Amman
+ADJ	Amman
+AQJ	Aqaba
+OMF	Mafraq
+KWI	Kuwait
+BEY	Beirut
+KYE	Kleiat
+AUH	Abu Dhabi
+AZI	Abu Dhabi
+DHF	Abu Dhabi
+DXB	Dubai
+FJR	Fujeirah
+RKT	Ras Al Khaimah
+SHJ	Sharjah
+KHS	Khasab
+MSH	Masirah
+MCT	Muscat
+SLL	Salalah
+TTH	Thumrait
+BHW	Bhagtanwala
+LYP	Faisalabad
+GWD	Gwadar
+GIL	Gilgit
+JAG	Jacobsbad
+KHI	Karachi
+LHE	Lahore
+XJM	Mangla
+MFG	Muzaffarabad
+MWD	Mianwali
+MJD	Moenjodaro
+MUX	Multan
+WNS	Nawabshah
+PJG	Panjgur
+PSI	Pasni
+PEW	Peshawar
+UET	Quetta
+RYK	Rahim Yar Khan
+RAZ	Rawala Kot
+SKZ	Sukkur
+SDT	Saidu Sharif
+SUL	Sui
+BDN	Talhar
+WAF	Wana
+PZH	Zhob
+BSR	Basrah
+ALP	Aleppo
+DAM	Damascus
+DEZ	Deire Zor
+LTK	Latakia
+PMS	Palmyra
+DIA	Doha
+CIS	Canton Island
+ROP	Rota
+SPN	Saipan
+UAM	Andersen
+GUM	Agana
+TIQ	West Tinian
+MAJ	Majuro
+KWA	Kwajalein
+CXI	Kiritimati
+MDY	Midway
+TKK	Chuuk
+PNI	Pohnpei
+ROR	Babelthuap
+KSA	Kosrae
+YAP	Yap
+KNH	Kinmen
+TTT	Fengnin
+GNI	Green Island
+KHH	Kaohsiung
+CYI	Chiayi
+KYD	Lanyu
+RMQ	Taichung
+TNN	Tainan
+HSZ	Hsinchu
+MZG	Makung
+PIF	Pingtung
+TSA	Taipei
+TPE	Taipei
+WOT	Wang An
+HUN	Hualien
+NRT	Tokyo
+MMJ	Matsumoto
+IBR	Ibaraki
+MUS	Minami Tori Shima
+IWO	Iwojima
+SHM	Nanki-shirahama
+OBO	Obihiro
+CTS	Sapporo
+HKD	Hakodate
+MMB	Memanbetsu
+SHB	Nakashibetsu
+WKJ	Wakkanai
+IKI	Iki
+UBJ	Yamaguchi
+TSJ	Tsushima
+MBE	Monbetsu
+AKJ	Asahikawa
+OIR	Okushiri
+RIS	Rishiri Island
+KUM	Yakushima
+FUJ	Fukue
+FUK	Fukuoka
+TNE	Tanegashima
+KOJ	Kagoshima
+KMI	Miyazaki
+OIT	Oita
+KKJ	Kitakyushu
+KMJ	Kumamoto
+NGS	Nagasaki
+ASJ	Amami
+OKE	Okierabu
+TKN	Tokunoshima
+FKJ	Fukui
+QGU	Gifu
+KMQ	Kanazawa
+OKI	Oki Island
+TOY	Toyama
+HIJ	Hiroshima
+OKJ	Okayama
+IZO	Izumo
+YGJ	Miho
+KCZ	Kochi
+MYJ	Matsuyama
+ITM	Osaka
+TTJ	Tottori
+TKS	Tokushima
+TAK	Takamatsu
+AOJ	Aomori
+GAJ	Yamagata
+SDS	Sado
+HHE	Hachinoe
+HNA	Hanamaki
+AXT	Akita
+MSJ	Misawa
+SDJ	Sendai
+NJA	Atsugi
+HAC	Hachijojima
+OIM	Oshima
+HND	Tokyo
+OKO	Yokota
+KWJ	Kwangju
+CHN	Jhunju
+RSU	Yeosu
+KAG	Kangnung
+CJU	Cheju
+CHF	Chinhae
+PUS	Busan
+USN	Ulsan
+SSN	Seoul East
+OSN	Osan
+GMP	Seoul
+SWU	Suwon
+KPO	Pohang
+TAE	Taegu
+YEC	Yechon
+OKA	Okinawa
+DNA	Kadena
+ISG	Ishigaki
+UEO	Kumejima
+MMD	Minami Daito
+MMY	Miyako
+KTD	Kitadaito
+SHI	Shimojishima
+TRA	Tarama
+RNJ	Yoron
+OGN	Yonaguni Jima
+MNL	Manila
+CBO	Cotabato
+PAG	Pagadian
+GES	Romblon
+ZAM	Zamboanga
+BAG	Baguio
+DTE	Daet
+SJI	San Jose
+MBO	Mamburao
+BQA	Baler
+TAC	Tacloban
+BCD	Bacolod
+DGT	Dumaguete
+MPH	Caticlan
+ILO	Iloilo
+KLO	Kalibo
+PPS	Puerto Princesa
+EUQ	San Jose
+COC	Concordia
+GHU	Gualeguaychu
+JNI	Junin
+PRA	Parana
+ROS	Rosario
+SFN	Santa Fe
+AEP	Buenos Aires
+COR	Cordoba
+FDO	San Fernando
+LPG	La Plata
+EPA	El Palomar
+HOS	Chosmadal
+GNR	Fuerte Gral Roca
+MDZ	Mendoza
+LGS	Malargue
+AFA	San Rafael
+CTC	Catamarca
+SDE	Santiago Del Estero
+IRJ	La Rioja
+TUC	Tucuman
+UAQ	San Juan
+RCU	Rio Cuarto
+VDR	Villa Dolores
+VME	Villa Reynolds
+LUQ	San Luis
+CNQ	Corrientes
+RES	Resistencia
+FMA	Formosa
+IGR	Iguazu Falls
+AOL	Paso De Los Libres
+MCS	Monte Caseros
+PSS	Posadas
+PRQ	Presidencia R.s.pena
+SLA	Salta
+JUJ	Jujuy
+ORA	Oran
+ELO	El Dorado
+OYA	Goya
+RCQ	Reconquista
+UZU	Curuzu Cuatia
+EHL	El Bolson
+CRD	Comodoro Rivadavia
+EQS	Esquel
+REL	Trelew
+VDM	Viedma
+PMY	Puerto Madryn
+PUD	Puerto Deseado
+RGA	Rio Grande
+RGL	Rio Gallegos
+USH	Ushuaia
+ULA	San Julian
+PMQ	Perito Moreno
+RZA	Santa Cruz
+BHI	Bahia Blanca
+CSZ	Colonel Suarez
+OVR	Olavarria
+GPO	General Pico
+OYO	Tres Arroyos
+MDQ	Mar Del Plata
+NQN	Neuquen
+PEH	Pehuajo
+RSA	Santa Rosa
+BRC	San Carlos De Bariloche
+TDL	Tandil
+VLG	Villa Gesell
+CUT	Cutralco
+CPC	San Martin Des Andes
+CDJ	Conceicao Do Araguaia
+AQA	Araracuara
+AJU	Aracaju
+AFL	Alta Floresta
+ARU	Aracatuba
+BEL	Belem
+BGX	Bage
+PLU	Belo Horizonte
+BFH	Curitiba
+BSB	Brasilia
+BAU	Bauru
+BVB	Boa Vista
+BPG	Barra Do Garcas
+CAC	Cascavel
+CNF	Belo Horizonte
+CGR	Campo Grande
+XAP	Chapeco
+CLN	Carolina
+CCM	Criciuma
+CAW	Campos
+CMG	Corumba
+CWB	Curitiba
+CRQ	Caravelas
+CXJ	Caxias Do Sul
+CGB	Cuiaba
+CZS	Cruzeiro do Sul
+PPB	President Prudente
+MAO	Manaus
+JCR	Jacare-acanga
+IGU	Foz Do Iguacu
+FLN	Florianopolis
+FEN	Fernando Do Noronha
+FOR	Fortaleza
+GIG	Rio De Janeiro
+GJM	Guajara-mirim
+GYN	Goiania
+GRU	Sao Paulo
+GUJ	Guaratingueta
+ATM	Altamira
+ITA	Itaituba
+ITB	Itaituba
+IOS	Ilheus
+IPN	Ipatinga
+ITR	Itumbiara
+IMP	Imperatriz
+JDF	Juiz De Fora
+JPA	Joao Pessoa
+JOI	Joinville
+CPV	Campina Grande
+VCP	Campinas
+LAJ	Lajes
+LIP	Lins
+LDB	Londrina
+LAZ	Bom Jesus Da Lapa
+MAB	Maraba
+MEU	Almeirim
+MGF	Maringa
+MOC	Montes Claros
+PLL	Manaus
+MCZ	Maceio
+MCP	Macapa
+MVF	Mocord
+MNX	Manicore
+NVT	Navegantes
+GEL	Santo Angelo
+NAT	Natal
+OYK	Oioiapoque
+POA	Porto Alegre
+PHB	Parnaiba
+POO	Pocos De Caldas
+PFB	Passo Fundo
+PET	Pelotas
+PNZ	Petrolina
+PNB	Porto Nacional
+PMG	Ponta Pora
+PVH	Porto Velho
+RBR	Rio Branco
+REC	Recife
+SDU	Rio De Janeiro
+RAO	Ribeirao Preto
+SNZ	Rio De Janeiro
+SJK	Sao Jose Dos Campos
+SLZ	Sao Luis
+CGH	Sao Paulo
+SJP	Sao Jose Do Rio Preto
+SSZ	Santos
+SSA	Salvador
+TMT	Oriximina
+THE	Teresina
+TFF	Tefe
+TRQ	Tarauaca
+TEC	Telemaco Borba
+TBT	Tabatinga
+TUR	Tucurui
+SJL	Sao Gabriel
+PAV	Paulo Alfonso
+URG	Uruguaiana
+UDI	Uberlandia
+UBA	Uberaba
+VAG	Varginha
+BVH	Vilhena
+VIX	Vitoria
+QPS	Piracununga
+ARI	Arica
+BBA	Balmaceda
+CCH	Chile Chico
+CJC	Calama
+YAI	Chillan
+PUQ	Punta Arenas
+GXQ	Coyhaique
+IQQ	Iquique
+SCL	Santiago
+ANF	Antofagasta
+WPR	Porvenir
+FFU	Futaleufu
+LSQ	Los Angeles
+WPU	Puerto Williams
+CCP	Concepcion
+IPC	Easter Island
+ZOS	Osorno
+VLR	Vallenar
+QRC	Rancagua
+TNM	Isla Rey Jorge
+LSC	La Serena
+PZS	Temuco
+PMC	Puerto Montt
+WCH	Chaiten
+ZAL	Valdivia
+ATF	Ambato
+OCC	Coca
+CUE	Cuenca
+GPS	Galapagos
+GYE	Guayaquil
+LTX	Latacunga
+MRR	Macara
+XMS	Macas
+MCH	Machala
+MEC	Manta
+PVO	Portoviejo
+UIO	Quito
+ETR	Santa Rosa
+SNC	Salinas
+TPC	Tarapoa
+TUA	Tulcan
+ASU	Asuncion
+AYO	Ayolas
+CIO	Conception
+ESG	Mariscal Estigarribia
+PIL	Pilar
+AXM	Armenia
+PUU	Puerto Asis
+ELB	El Banco
+BGA	Bucaramanga
+BOG	Bogota
+BAQ	Barranquilla
+BSC	Bahia Solano
+BUN	Buenaventura
+CUC	Cucuta
+CTG	Cartagena
+CLO	Cali
+TCO	Tumaco
+CZU	Corozal
+EJA	Barrancabermeja
+FLA	Florencia
+GIR	Girardot
+GPI	Guapi
+IBE	Ibague
+IPI	Ipiales
+APO	Carepa
+MCJ	La Mina
+LET	Leticia
+EOH	Medellin
+MGN	Magangue
+MTR	Monteria
+MVP	Mitu
+MZL	Manizales
+NVA	Neiva
+OCV	Ocana
+OTU	Otu
+PCR	Puerto Carreno
+PEI	Pereira
+PTX	Pitalito
+PPN	Popayan
+PSO	Pasto
+PVA	Providencia
+MQU	Mariquita
+MDE	Rio Negro
+RCH	Rio Hacha
+SJE	San Jose Del Guaviare
+SMR	Santa Marta
+ADZ	San Andres Island
+SVI	San Vincente De Caguan
+TME	Tame
+AUC	Arauca
+UIB	Quibdo
+ULQ	Tulua
+VUP	Valledupar
+VVC	Villavicencio
+BJO	Bermejo
+CBB	Cochabamba
+CCA	Chapacura
+CIJ	Cobija
+LPB	La Paz
+ORU	Oruro
+POI	Potosi
+PSZ	Puerto Suarez
+SBL	Santa Ana
+SRE	Sucre
+TJA	Tarija
+TDD	Trinidad
+VLM	Villa Montes
+VVI	Santa Cruz
+BYC	Yacuiba
+PBM	Zandery
+CAY	Cayenne
+OYP	St.-georges Oyapock
+AOP	Andoas
+IBP	Iberia
+PCL	Pucallpa
+CHM	Chimbote
+CIX	Chiclayo
+AYP	Ayacucho
+ANS	Andahuaylas
+ATA	Anta
+LIM	Lima
+JJI	Juanjui
+JAU	Jauja
+JUL	Juliaca
+ILQ	Ilo
+TBP	Tumbes
+YMS	Yurimaguas
+CHH	Chachapoyas
+IQT	Iquitos
+AQP	Arequipa
+TRU	Trujillo
+PIO	Pisco
+TPP	Tarapoto
+TCQ	Tacna
+PEM	Puerto Maldonado
+PIU	Piura
+TYL	Talara
+CUZ	Cuzco
+DZO	Durazno
+MVD	Montevideo
+STY	Salto
+AGV	Acarigua
+AAO	Anaco
+BLA	Barcelona
+BNS	Barinas
+BRM	Barquisimeto
+CBL	Ciudad Bolivar
+CXA	Caicara De Orinoco
+CLZ	Calabozo
+CAJ	Canaima
+VCR	Carora
+CUP	Carupano
+CZE	Coro
+CUM	Cumana
+EOR	El Dorado
+EOZ	Elorza
+GDO	Guasdualito
+GUI	Guiria
+GUQ	Guanare
+HGE	Higuerote
+ICC	Isla De Coche
+LSP	Paraguana
+LFR	La Fria
+MAR	Maracaibo
+MRD	Merida
+PMV	Porlamar
+CCS	Caracas
+MUN	Maturin
+PYH	Puerto Ayacucho
+PBL	Puerto Cabello
+SCI	San Cristobal
+PZO	Guayana
+PTM	Palmarito
+SVZ	San Antonio
+SBB	Santa Barbara
+SNV	Santa Ana De Uairen
+STD	Santo Domingo
+SNF	San Felipe
+SFD	San Fernando De Apure
+SOM	San Tome
+STB	Santa Barbara
+TUV	Tucupita
+TMO	Tumeremo
+VLN	Valencia
+VLV	Valera
+VDP	Valle De La Pascua
+LTM	Lethem
+ANU	Antigua
+BGI	Bridgetown
+DCF	Canefield
+DOM	Dominica
+FDF	Fort-de-france
+SFG	St. Martin
+PTP	Pointe-a-pitre
+GND	Point Salines
+STT	St. Thomas
+STX	St. Croix Island
+BQN	Aguadilla
+FAJ	Fajardo
+SIG	San Juan
+MAZ	Mayaguez
+PSE	Ponce
+SJU	San Juan
+SKB	Basse Terre
+SLU	Castries
+UVF	Hewandorra
+AUA	Oranjestad
+BON	Kralendijk
+CUR	Willemstad
+EUX	Oranjestad
+SXM	Philipsburg
+AXA	The Valley
+TAB	Scarborough
+POS	Port-of-spain
+EIS	Tortola
+CIW	Canouan Island
+MQS	Mustique
+SVD	Kingstown
+ALA	Alma-ata
+BXH	Balkhash
+TSE	Tselinograd
+DMB	Dzhambul
+FRU	Bishkek
+OSS	Osh
+CIT	Chimkent
+URA	Uralsk
+PWQ	Pavlodar
+PLX	Semiplatinsk
+AKX	Aktyubinsk
+GYD	Baku
+YKS	Yakutsk
+MJZ	Mirnyj
+BQS	Blagoveschensk
+KHV	Khabarovsk
+PVS	Provideniya Bay
+GDX	Magadan
+PWE	Pevek
+PKC	Petropavlovsk
+UUS	Yuzhno-sakhalinsk
+VVO	Vladivostok
+HTA	Chita
+BTK	Bratsk
+IKT	Irkutsk
+UUD	Ulan-ude
+KBP	Kiev
+DOK	Donetsk
+DNK	Dnepropetrovsk
+SIP	Simferopol
+IEV	Kiev
+LWO	Lvov
+ODS	Odessa
+LED	St. Petersburg
+MMK	Murmansk
+GME	Gomel
+VTB	Vitebsk
+KGD	Kaliningrad
+MHP	Minsk
+MSQ	Minsk 2
+ABA	Abakan
+BAX	Barnaul
+KEJ	Kemorovo
+OMS	Omsk
+KRR	Krasnodar
+MCX	Makhachkala
+MRV	Mineralnye Vody
+STW	Stavropol
+ROV	Rostov
+AER	Sochi
+ASF	Astrakhan
+VOG	Volgograd
+CEK	Chelyabinsk
+MQF	Magnetiogorsk
+NJC	Nizhnevartovsk
+PEE	Perm
+SGC	Surgut
+SVX	Yekaterinburg
+ASB	Ashkhabad
+KRW	Krasnovodsk
+CRZ	Chardzhou
+DYU	Dushanbe
+BHK	Bukhara
+SKD	Samarkand
+TAS	Tashkent
+BZK	Bryansk
+SVO	Moscow
+KLD	Tver
+VOZ	Voronezh
+VKO	Moscow
+SCW	Syktyvkar
+KZN	Kazan
+REN	Orenburg
+UFA	Ufa
+KUF	Samara
+AMD	Ahmedabad
+AKD	Akola
+IXU	Aurangabad
+BOM	Mumbai
+PAB	Bilaspur
+BHJ	Bhuj
+IXG	Belgaum
+BDQ	Baroda
+BHO	Bhopal
+BHU	Bhaunagar
+NMB	Daman
+GUX	Guna
+GOI	Goa
+IDR	Indore
+JLR	Jabalpur
+JGA	Jamnagar
+IXY	Kandla
+HJR	Khajuraho
+KLH	Kolhapur
+IXK	Keshod
+NAG	Nagpur
+ISK	Nasik Road
+PNQ	Pune
+PBD	Porbandar
+RAJ	Rajkot
+RPR	Raipur
+SSE	Sholapur
+STV	Surat
+UDR	Udaipur
+CMB	Colombo
+ACJ	Anuradhapura
+BTC	Batticaloa
+RML	Colombo
+ADP	Galoya
+JAF	Jaffna
+TRR	Trinciomalee
+KZC	Kompong Chnang
+PNH	Phnom-penh
+REP	Siem-reap
+TNX	Stung Treng
+IXV	Along
+IXA	Agartala
+AJL	Aizwal
+IXB	Baghdogra
+BBI	Bhubaneswar
+CCU	Kolkata
+COH	Cooch-behar
+DBD	Dhanbad
+GAY	Gaya
+IMF	Imphal
+IXW	Jamshedpur
+JRH	Jorhat
+IXH	Kailashahar
+IXS	Silchar
+IXI	Lilabari
+DIB	Mohanbari
+MZU	Mazuffarpur
+PAT	Patina
+IXR	Ranchi
+RRK	Rourkela
+VTZ	Vishakhapatnam
+ZER	Zero
+CXB	Cox's Bazar
+CGP	Chittagong
+IRD	Ishurdi
+JSR	Jessore
+RJH	Rajshahi
+SPD	Saidpur
+ZYL	Sylhet Osmani
+DAC	Dhaka
+HKG	Hong Kong
+AGR	Agra
+IXD	Allahabad
+ATQ	Amritsar
+BKB	Bikaner
+VNS	Varanasi
+KUU	Kulu
+BUP	Bhatinda
+BEK	Bareilly
+IXC	Chandigarh
+KNU	Kanpur
+DED	Dehra Dun
+DEL	Delhi
+GWL	Gwalior
+HSS	Hissar
+JDH	Jodhpur
+JAI	Jaipur
+JSA	Jaisalmer
+IXJ	Jammu
+KTU	Kota
+LUH	Ludhiaha
+IXL	Leh
+LKO	Lucknow
+IXP	Pathankot
+PGH	Nainital
+SXR	Srinagar
+TNI	Satna
+LPQ	Luang Prabang
+PKZ	Pakse
+ZVK	Savannakhet
+NEU	Sam Neua
+VTE	Vientiane
+MFM	Macau
+BWA	Bhairawa
+JKR	Janakpur
+KTM	Kathmandu
+PKR	Pokhara
+SIF	Simara
+BIR	Biratnagar
+AGX	Agatti Island
+BLR	Bangalore
+BEP	Bellary
+VGA	Vijayawada
+CJB	Coimbatore
+COK	Kochi
+CCJ	Calicut
+CDP	Cuddapah
+CBD	Carnicobar
+BPM	Hyderabad
+IXM	Madurai
+IXE	Mangalore
+MAA	Madras
+IXZ	Port Blair
+PNY	Pendicherry
+RJA	Rajahmundry
+SXV	Salem
+TJV	Tanjore
+TIR	Tirupeti
+TRZ	Tiruchirappalli
+TRV	Trivandrum
+PBH	Thimphu
+MLE	Male
+DMK	Bangkok
+KDT	Nakhon Pathom
+UTP	Pattaya
+LPT	Lampang
+PRH	Phrae
+HHQ	Prachuap Khiri Khan
+TKH	Nakhon Sawan
+PHS	Phitsanulok
+NAW	Narathiwat
+KBV	Krabi
+SGZ	Songkhla
+PAN	Pattani
+USM	Ko Samui
+HKT	Phuket
+UNN	Ranong
+HDY	Hat Yai
+TST	Trang
+UTH	Udon Thani
+SNO	Sakon Nakhon
+PXR	Surin
+LOE	Loei
+DAD	Danang
+HAN	Hanoi
+NHA	Nhatrang
+HUI	Hue
+PQC	Phuquoc
+SGN	Ho Chi Minh City
+VBA	Ann
+NYU	Bagan
+HEH	Heho
+HOX	Hommalin
+KET	Kengtung
+KYP	Kyaukpyu
+LSH	Lashio
+MDL	Mandalay
+MGZ	Myeik
+MYT	Myitkyina
+MOE	Momeik
+MOG	Mong Hsat
+NMS	Namsang
+PAA	Hpa-an
+PBU	Putao
+PRU	Pyay
+AKY	Sittwe
+SNW	Thandwe
+THL	Tachilek
+RGN	Yangon
+UPG	Ujung Pandang
+BIK	Biak
+NBX	Nabire
+TIM	Timika
+DJJ	Jayapura
+WMX	Wamena
+MKQ	Merauke
+GTO	Gorontalo
+PLW	Palu
+MDC	Manado
+PSJ	Poso
+OTI	Morotai Island
+TTE	Ternate
+LUW	Luwuk
+FKQ	Fak Fak
+KNG	Kaimana
+BXB	Babo
+MKW	Manokwari
+SOQ	Sorong
+BTU	Bintulu
+KCH	Kuching
+LMN	Limbang
+MUR	Marudi
+MYY	Miri
+SBW	Sibu
+LDU	Lahad Datu
+BKI	Kota Kinabalu
+LBU	Labuan
+TWU	Tawau
+BWN	Bandar Seri Begawan
+PKU	Pekanbaru
+DUM	Dumai
+CGK	Jakarta
+GNS	Gunung Sitoli
+AEG	Padang Sidempuan
+PDG	Padang
+MES	Medan
+FLZ	Sibolga
+NPO	Nangapinoh
+KTG	Ketapang
+PNK	Pontianak
+DJB	Jambi
+BKS	Bengkulu
+PLM	Palembang
+RGT	Rengat
+LSX	Lhok Sukon
+BTJ	Banda Aceh
+AOR	Alor Setar
+BWH	Butterworth
+KBR	Kota Bahru
+KUA	Kuantan
+KTE	Kerteh
+IPH	Ipoh
+JHB	Johor Bahru
+KUL	Kuala Lumpur
+LGK	Langkawi
+MKZ	Malacca
+TGG	Kuala Terengganu
+PEN	Penang
+UAI	Suai
+DIL	Dili
+BCH	Baucau
+QPG	Paya Lebar
+TGA	Tengah
+XSP	Singapore
+SIN	Singapore
+ACF	Brisbane
+ABM	Amberley
+ASP	Alice Springs
+BNE	Brisbane
+OOL	Coolangatta
+CNS	Cairns
+CTL	Charlieville
+ISA	Mount Isa
+MCY	Maroochydore
+MKY	Mackay
+PPP	Prosserpine
+ROK	Rockhampton
+TSV	Townsville
+WEI	Weipa
+AVV	Avalon
+ABX	Albury
+MEB	Melbourne
+HBA	Hobart
+LST	Launceston
+MBW	Melbourne
+MEL	Melbourne
+ADL	Adelaide
+JAD	Perth
+KTA	Karratha
+KGI	Kalgoorlie
+KNX	Kununurra
+LEA	Learmonth
+PHE	Port Hedland
+PER	Perth
+UMR	Woomera
+XCH	Christmas Island
+BWU	Sydney
+CBR	Canberra
+CFS	Coff's Harbour
+CDU	Camden
+DBO	Dubbo
+NLK	Norfolk Island
+XRH	Richmond
+SYD	Sydney
+TMW	Tamworth
+WGA	Wagga Wagga
+PEK	Beijing
+HLD	Hailar
+TSN	Tianjin
+TYN	Taiyuan
+CAN	Guangzhou
+CSX	Changcha
+KWL	Guilin
+NNG	Nanning
+SZX	Shenzhen
+CGO	Zhengzhou
+WUH	Wuhan
+FNJ	Pyongyang
+LHW	Lanzhou
+XIY	Xi'an
+ULN	Ulan Bator
+JHG	Jinghonggasa
+KMG	Kunming
+XMN	Xiamen
+KHN	Nanchang
+FOC	Fuzhou
+HGH	Hangzhou
+NGB	Ninbo
+NKG	Nanjing
+HFE	Hefei
+TAO	Qingdao
+SHA	Shanghai
+YNT	Yantai
+CKG	Chongqing
+KWE	Guiyang
+CTU	Chengdu
+XIC	Xichang
+KHG	Kashi
+HTN	Hotan
+URC	Urumqi
+HRB	Harbin
+MDG	Mudanjiang
+DLC	Dalian
+PVG	Shanghai
+TOD	Tioman
+SZB	Kuala Lumpur
+NTQ	Wajima
+HBE	Alexandria
+BTI	Barter Island
+LUR	Cape Lisburne
+PIZ	Point Lay
+ITO	Hilo
+ORL	Orlando
+BTT	Bettles
+UTO	Indian Mountains
+FYU	Fort Yukon
+SVW	Sparrevohn
+FRN	Fort Richardson
+TLJ	Tatalina
+CZF	Cape Romanzof
+BED	Bedford
+SNP	St. Paul Island
+EHM	Cape Newenham
+STG	Point Barrow
+ILI	Iliamna
+PTU	Port Moller
+BMX	Big Mountain
+OSC	Oscoda
+OAR	Fort Ord
+MHR	Sacramento
+BYS	Fort Irwin
+FSM	Fort Smith
+MRI	Anchorage
+GNT	Grants
+PNC	Ponca City
+SVN	Hunter Aaf
+GFK	Grand Forks
+NSE	Milton
+HNM	Hana
+PRC	Prescott
+TTN	Trenton
+BOS	Boston
+SUU	Fairfield
+RME	Rome
+ENV	Wendover
+BFM	Mobile
+OAK	Oakland
+OMA	Omaha
+OGG	Kahului
+ICT	Wichita
+MCI	Kansas City
+MSN	Madison
+DLG	Dillingham
+HRO	Harrison
+PHX	Phoenix
+BGR	Bangor
+FXE	Fort Lauderdale
+GGG	Longview
+AND	Andersen
+GEG	Spokane
+HWO	Hollywood
+SFO	San Francisco
+CTB	Cutbank
+ARA	Louisiana
+GNV	Gainesville
+MEM	Memphis
+DUG	Douglas
+BIG	Delta Junction
+CNW	Waco
+ANN	Annette Island
+CAR	Caribou
+LRF	Jacksonville
+HUA	Redstone
+POB	Fort Bragg
+DHT	Dalhart
+DLF	Del Rio
+LAX	Los Angeles
+ANB	Anniston
+CLE	Cleveland
+DOV	Dover
+CVG	Cincinnati
+FME	Fort Meade
+HON	Huron
+JNU	Juneau
+LFT	Lafayette
+EWR	Newark
+BOI	Boise
+INS	Indian Springs
+GCK	Garden City
+MOT	Minot
+HHI	Wahiawa
+MXF	Montgomery
+DAL	Dallas
+FCS	Fort Carson
+HLN	Helena
+NKX	Miramar
+LUF	Phoenix
+HHR	Hawthorne
+HUL	Houlton
+END	Enid
+NTD	Point Mugu
+EDW	Edwards Afb
+LCH	Lake Charles
+KOA	Kona
+MYR	Myrtle Beach
+NLC	Lemoore
+ACK	Nantucket
+FAF	Fort Eustis
+HOP	Hopkinsville
+DCA	Washington
+NHK	Patuxent River
+PSX	Palacios
+BYH	Blytheville
+ACY	Atlantic City
+TIK	Oklahoma City
+ECG	Elizabeth City
+PUB	Pueblo
+PQI	Presque Isle
+GRF	Fort Lewis
+ADQ	Kodiak
+UPP	Opolu
+FLL	Fort Lauderdale
+INL	International Falls
+SLC	Salt Lake City
+CDS	Childress
+BIX	Biloxi
+LSF	Fort Benning
+NQI	Kingsville
+FRI	Fort Riley
+MDT	Harrisburg
+LNK	Lincoln
+LAN	Lansing
+MUE	Kamuela
+MSS	Massena
+HKY	Hickory
+SPG	St. Petersburg
+FMY	Fort Myers
+IAH	Houston
+ADW	Camp Springs
+INT	Winston-salem
+VCV	Victorville
+CEW	Crestview
+PHN	Port Huron
+BFL	Bakersfield
+ELP	El Paso
+HRL	Harlingen
+CAE	Columbia
+DMA	Tucson
+NPA	Pensacola
+PNS	Pensacola
+RDR	Red River
+HOU	Houston
+BFK	Buckley
+ORT	Northway
+PAQ	Palmer
+PIT	Pittsburgh
+BRW	Barrow
+EFD	Houston
+NUW	Whidbey Island
+ALI	Alice
+VAD	Valdosta
+MIA	Miami
+SEA	Seattle
+CHA	Chattanooga
+BDR	Stratford
+JAN	Jackson
+GLS	Galveston
+LGB	Long Beach
+HDH	Dillingham
+IPT	Williamsport
+IND	Indianapolis
+SZL	Knobnoster
+AKC	Akron
+GWO	Greenwood
+HPN	White Plains
+FOK	West Hampton Beach
+JBR	Jonesboro
+XSD	Tonopah
+LNA	West Palm Beach
+NZY	San Diego
+BIF	El Paso
+YUM	Yuma
+CNM	Carlsbad
+DLH	Duluth
+BET	Bethel
+LOU	Louisville
+FHU	Fort Huachuca
+LIH	Lihue
+HVR	Havre
+MWH	Grant County Airport
+MPV	Montpelier
+RIC	Richmond
+SHV	Shreveport
+CDV	Cordova
+ORF	Norfolk
+BPT	Beaumont
+SAV	Savannah
+HIF	Ogden
+OME	Nome
+PIE	St. Petersburg
+MNM	Macon
+CXO	Conroe
+SCC	Deadhorse
+SAT	San Antonio
+ROC	Rochester
+COF	Coco Beach
+TEB	Teterboro
+RCA	Rapid City
+RDU	Raleigh-durham
+DAY	Dayton
+ENA	Kenai
+MLC	Mcalester
+IAG	Niagara Falls
+CFD	Bryan
+LIY	Wright
+PHF	Newport News
+ESF	Alexandria
+LTS	Altus
+TUS	Tucson
+MIB	Minot
+BAB	Marysville
+IKK	Kankakee
+GSB	Goldsboro
+PVD	Providence
+SBY	Salisbury
+BUR	Burbank
+DTW	Detroit
+TPA	Tampa
+PMB	Pembina
+POE	Fort Polk
+EIL	Fairbanks
+HIB	Hibbing
+LFK	Lufkin
+MAF	Midland
+GRB	Green Bay
+ADM	Ardmore
+WRI	Wrightstown
+AGS	Bush Field
+ISN	Williston
+LIT	Little Rock
+SWF	Newburgh
+BDE	Baudette
+SAC	Sacramento
+HOM	Homer
+TBN	Fort Leonardwood
+MGE	Marietta
+SKA	Spokane
+HTL	Houghton Lake
+PAM	Panama City
+DFW	Dallas-Fort Worth
+MLB	Melbourne
+TCM	Tacoma
+AUS	Austin
+LCK	Columbus
+MQT	Gwinn
+TYS	Knoxville
+HLR	Fort Hood
+STL	St. Louis
+MIV	Millville
+SPS	Wichita Falls
+LUK	Cincinnati
+ATL	Atlanta
+MER	Merced
+MCC	Sacramento
+GRR	Grand Rapids
+INK	Wink
+FAT	Fresno
+VRB	Vero Beach
+IPL	Imperial
+BNA	Nashville
+LRD	Laredo
+EDF	Anchorage
+OTZ	Kotzebue
+AOO	Altoona
+DYS	Abilene
+ELD	El Dorado
+LGA	New York
+TLH	Tallahassee
+DPA	West Chicago
+ACT	Waco
+AUG	Augusta
+NIP	Jacksonville
+MKL	Jackson
+MKK	Molokai
+FTK	Fort Knox
+SJT	San Angelo
+CXL	Calexico
+CIC	Chico
+BTV	Burlington
+JAX	Jacksonville
+DRO	Durango
+IAD	Washington
+CLL	College Station
+SFF	Spokane
+MKE	Milwaukee
+ABI	Abilene
+COU	Columbia
+PDX	Portland
+TNT	Miami
+PBI	West Palm Beach
+FTW	Fort Worth
+OGS	Ogdensburg
+FMH	Falmouth
+BFI	Seattle
+SKF	San Antonio
+HNL	Honolulu
+DSM	Des Moines
+EWN	New Bern
+SAN	San Diego
+MLU	Monroe
+SSC	Sumter
+ONT	Ontario
+GVT	Greenvile
+ROW	Roswell
+DET	Detroit
+BRO	Brownsville
+DHN	Dothan
+WWD	Wildwood
+NFL	Fallon
+MTC	Mount Clemens
+FMN	Farmington
+CRP	Corpus Christi
+SYR	Syracuse
+NQX	Key West
+MDW	Chicago
+SJC	San Jose
+HOB	Hobbs
+PNE	Philadelphia
+DEN	Denver
+PHL	Philadelphia
+SUX	Sioux City
+MCN	Macon
+TCS	Truth Or Consequences
+PMD	Palmdale
+RND	San Antonio
+NJK	El Centro
+CMH	Columbus
+FYV	Fayetteville
+FSI	Fort Sill
+FFO	Dayton
+GAL	Galena
+MWL	Mineral Wells
+IAB	Wichita
+NBG	New Orleans
+BFT	Beaufort
+TXK	Texarkana
+PBG	Plattsburgh
+APG	Aberdeen
+TCC	Tucumcari
+ANC	Anchorage
+GRK	Killeen
+BLI	Bellingham
+NQA	Millington
+EKN	Elkins
+HFD	Hartford
+SFZ	Smithfield
+MOB	Mobile
+NUQ	Mountain View
+SAF	Santa Fe
+BKH	Barking Sands
+DRI	Deridder
+BSF	Bradshaw Field
+OLS	Nogales
+MCF	Tampa
+BLV	Belleville
+OPF	Miami
+DRT	Del Rio
+RSW	Fort Myers
+AKN	King Salmon
+MUI	Muir
+JHM	Lahania-kapalua
+JFK	New York
+HST	Homestead
+RAL	Riverside
+FLV	Fort Leavenworth
+WAL	Wallops Island
+HMN	Alamogordo
+NXX	Willow Grove
+CYS	Cheyenne
+SCK	Stockton
+CHS	Charleston
+RNO	Reno
+KTN	Ketchikan
+YIP	Detroit
+VBG	Lompoc
+BHM	Birmingham
+NEL	Lakehurst
+SYA	Shemya
+LSV	Las Vegas
+RIV	Riverside
+MOD	Modesto
+SMF	Sacramento
+UGN	Chicago
+COS	Colorado Springs
+BUF	Buffalo
+SKY	Sandusky
+PAE	Everett
+MUO	Mountain Home
+CDC	Cedar City
+BDL	Windsor Locks
+MFE	Mcallen
+NGU	Norfolk
+CEF	Chicopee Falls
+LBB	Lubbock
+ORD	Chicago
+BCT	Boca Raton
+FAI	Fairbanks
+CVS	Clovis
+NGF	Kaneohe Bay
+OFF	Omaha
+GKN	Gulkana
+ART	Watertown
+PSP	Palm Springs
+AMA	Amarillo
+FOD	Fort Dodge
+BAD	Shreveport
+FOE	Topeka
+COT	Cotulla
+ILM	Wilmington
+BTR	Baton Rouge
+TYR	Tyler
+BWI	Baltimore
+HBR	Hobart
+LNY	Lanai
+AEX	Alexandria
+WSD	White Sands
+CDB	Cold Bay
+TUL	Tulsa
+SIT	Sitka
+ISP	Islip
+MSP	Minneapolis
+ILG	Wilmington
+DUT	Unalaska
+MSY	New Orleans
+PWM	Portland
+OKC	Oklahoma City
+ALB	Albany
+VDZ	Valdez
+LFI	Hampton
+SNA	Santa Ana
+CBM	Colombus
+TMB	Kendall-tamiami
+NTU	Oceana
+GUS	Peru
+CPR	Casper
+VPS	Valparaiso
+SEM	Selma
+EYW	Key West
+CLT	Charlotte
+LAS	Las Vegas
+MCO	Orlando
+FLO	Florence
+GTF	Great Falls
+YNG	Youngstown
+FBK	Fort Wainwright
+WRB	Macon
+BKK	Bangkok
+NAH	Naha
+MXB	Masamba
+SQR	Soroako
+TTR	Makale
+KDI	Kendari
+SBG	Sabang
+TSY	Tasikmalaya
+MLG	Malang
+BDO	Bandung
+CBN	Cirebon
+JOG	Yogyakarta
+CXP	Cilacap
+PCB	Jakarta
+SRG	Semarang
+BTH	Batam
+TJQ	Tanjung Pandan
+PGK	Pangkal Pinang
+TNJ	Tanjung Pinang
+SIQ	Singkep
+BDJ	Banjarmasin
+BTW	Batu Licin
+PKN	Pangkalan Bun
+PKY	Palangkaraya
+MOF	Maumere
+ENE	Ende
+RTG	Ruteng
+KOE	Kupang
+LBJ	Labuhan Bajo
+BPN	Balikpapan
+TRK	Taraken
+SRI	Samarinda
+TSX	Tanjung Santan
+AMI	Mataram
+BMU	Bima
+WGP	Waingapu
+SUB	Surabaya
+SOC	Solo City
+ICN	Seoul
+CNX	Chiang Mai
+CEI	Chiang Rai
+NST	Nakhon Si Thammarat
+NAK	Nakhon Ratchasima
+KOP	Nakhon Phanom
+UBP	Ubon Ratchathani
+KKC	Khon Kaen
+THS	Sukhothai
+DPS	Denpasar
+ATH	Athens
+NGO	Nagoya
+UKB	Kobe
+PUW	Pullman
+LWS	Lewiston
+ELM	Elmira
+ITH	Ithaca
+MRY	Monterey
+SBA	Santa Barbara
+DAB	Daytona Beach
+LPX	Liepaja
+RIX	Riga
+SQQ	Siauliai
+HLJ	Barysiai
+KUN	Kaunas
+PLQ	Palanga
+VNO	Vilnius
+PNV	Panevezys
+EVN	Yerevan
+LWN	Gyumri
+ASA	Assab
+ASM	Asmara
+MSW	Massawa
+GZA	Gaza
+BUS	Batumi
+KUT	Kutaisi
+TBS	Tbilisi
+RIY	Mukalla
+TAI	Taiz
+HOD	Hodeidah
+ADE	Aden
+AXK	Ataq
+AAY	Al Ghaidah Intl
+SAH	Sanaa
+BHN	Beihan
+SCT	Socotra
+FMM	Memmingen
+NAV	Nevsehir
+EZE	Buenos Aires
+EBL	Erbil
+EMD	Emerald
+HEW	Athens
+KIX	Osaka
+JRB	New York
+TAG	Tagbilaran
+JAV	Ilulissat
+JCH	Qasigiannguit
+JEG	Aasiaat
+PMI	Palma de Mallorca
+DRW	Darwin
+URT	Surat Thani
+TKA	Talkeetna
+GZM	Gozo
+HVN	New Haven
+AVL	Asheville
+GSO	Greensboro
+FSD	Sioux Falls
+AYQ	Uluru
+MHT	Manchester NH
+APF	Naples
+RDN	Redang
+SDF	Louisville
+CHO	Charlottesville VA
+ROA	Roanoke VA
+LEX	Lexington KY
+EVV	Evansville
+ABQ	Albuquerque
+BZN	Bozeman
+BIL	Billings
+BTM	Butte
+TVC	Traverse City
+FRS	Flores
+BHB	Bar Harbor
+RKD	Rockland
+JAC	Jacksn Hole
+RFD	Rockford
+DME	Moscow
+SYX	Sanya
+MFN	Milford Sound
+LJG	Lijiang
+GSP	Greenville
+BMI	Bloomington
+GPT	Gulfport
+AZO	Kalamazoo
+TOL	Toledo
+FWA	Fort Wayne
+DEC	Decatur
+CID	Cedar Rapids
+LSE	La Crosse
+CWA	Wassau
+PIA	Peoria
+ATW	Appleton
+RST	Rochester
+CMI	Champaign
+MHK	Manhattan
+KGC	Kingscote
+HVB	Hervey Bay
+DLU	Dali
+MZV	Mulu
+SSH	Sharm El Sheikh
+FKL	Franklin
+NBO	Nairobi
+SEU	Seronera
+FTE	El Calafate
+ARM	Armidale
+GJT	Grand Junction
+SGU	Saint George
+DWH	Houston
+SRQ	Sarasota
+BDA	Bermuda
+VNY	Van Nuys
+MLI	Moline
+PFN	Panama City
+HIR	Honiara
+PPT	Papeete
+INU	Nauru
+FUN	Funafuti
+OVB	Novosibirsk
+XKH	Phon Savan
+BIS	Bismarck
+TEX	Telluride
+HGN	Mae Hong Son
+RAP	Rapid City
+CLD	Carlsbad
+FNT	Flint
+DVO	Davao
+FNC	Funchal
+STM	Santarem
+KOS	Sihanoukville
+YOA	Ekati
+NPE	NAPIER
+LEV	Levuka
+LXA	Lhasa
+RDD	Redding
+EUG	Eugene
+IDA	Idaho Falls
+MFR	Medford
+KBZ	Kaikoura
+RDM	Redmond-Bend
+PCN	Picton
+WDH	Windhoek
+YWH	Victoria
+TNA	Jinan
+CZX	Changzhou
+YBP	Yibin
+TJM	Tyumen
+CAK	Akron
+HSV	Huntsville
+PKB	PARKERSBURG
+MGM	MONTGOMERY
+TRI	BRISTOL
+PAH	PADUCAH
+JIB	Djibouti
+HAK	Haikou
+MFA	Mafia Island
+PGA	Page
+UII	Utila
+FCA	Kalispell
+MBS	Saginaw
+BGM	Binghamton
+BGW	Baghdad
+NNT	Nan
+ROI	Roi Et
+BFV	Buri Ram
+TDX	Trat
+BLH	Blythe
+IQA	Al Asad
+TQD	Al Taqaddum
+XQC	Al Bakr
+CRK	Angeles City
+SDK	Sandakan
+LXG	Luang Namtha
+ODY	Muang Xay
+SHE	Shenyang
+DOY	Dongying
+MNI	Geralds
+PSG	Petersburg
+LYA	Luoyang
+XUZ	Xuzhou
+MWQ	Magwe
+KHM	Khamti
+DLI	Dalat
+VDH	Dong Hoi
+VKG	Rach Gia
+CAH	Ca Mau
+VCL	Chu Lai
+TBB	Tuy Hoa
+PYY	Pai
+BWK	Brac
+NSI	Yaounde
+CKY	Conakry
+AAH	Aachen
+FKB	Karlsruhe/Baden-Baden
+SFB	Sanford
+JST	Johnstown
+LUA	Lukla
+BHP	Bhojpur
+LDN	Lamidanda
+JMO	Jomsom
+NGX	Manang
+PPL	Phaplu
+RUM	Rumjatar
+DNP	Dang
+RUK	Rukumkot
+JUM	Jumla
+TPJ	Taplejung
+TMI	Tumling Tar
+SKH	Surkhet
+IMK	Simikot
+DOP	Dolpa
+BJH	Bajhang
+DHI	Dhangarhi
+MWX	Muan
+JTY	Astypalaia
+JIK	Ikaria
+JKL	Kalymnos
+MLO	Milos
+JNX	Cyclades Islands
+PAS	Paros
+KZS	Kastelorizo
+RMF	Marsa Alam
+NRN	Weeze
+USU	Busuanga
+BXU	Butuan
+DPL	Dipolog
+LAO	Laoag
+LGP	Legazpi
+OZC	Ozamis
+CEB	Cebu
+NOD	Norden
+JUI	Juist
+BPS	Porto Seguro
+QIG	Iguatu
+PMW	Palmas
+CLV	Caldas Novas
+MSO	Missoula
+BKQ	Blackall
+BDB	Bundaberg
+GCN	Grand Canyon
+SGR	Sugar Land
+APA	Denver
+CVN	Clovis
+FST	Fort Stockton
+LVS	Las Vegas
+IWS	Houston
+LRU	Las Cruces
+BKD	Breckenridge
+TPL	Temple
+OZA	Ozona
+KDM	Kaadedhdhoo
+LAK	Aklavik
+YWJ	Deline
+ZFN	Tulita
+YGH	Fort Good Hope
+TAH	Tanna
+YPC	Paulatuk
+SRZ	Santa Cruz
+SAB	Saba
+EGE	Vail
+SKN	Stokmarknes
+CGF	Richmond Heights
+MFD	Mansfield
+CSG	Columbus
+LAW	Lawton
+FNL	Fort Collins
+FLG	Flagstaff
+TVL	South Lake Tahoe
+TWF	Twin Falls
+MVY	Vineyard Haven MA
+CON	Concord NH
+GON	Groton CT
+STC	Saint Cloud
+BPE	Bagan
+GTR	Columbus Mississippi
+GOJ	Nizhniy Novgorod
+HQM	Hoquiam
+ERI	Erie
+HYA	Barnstable
+SPR	San Pedro
+SDX	Sedona
+MGW	Morgantown
+CRW	Charleston
+AVP	Scranton
+BJI	Bemidji
+THG	Biloela
+FGI	Apia
+BNK	Ballina Byron Bay
+FAR	Fargo
+MKC	Kansas City
+RBE	Ratanakiri
+GCC	Gillette
+TOF	Tomsk
+NZJ	Santa Ana
+PHY	Phetchabun
+CJM	Chumphon
+JZH	Jiuzhaigou
+SWA	Shantou
+GEO	Georgetown
+AGT	Ciudad del Este
+OGL	Georgetown
+KAI	Kaieteur
+DNH	Dunhuang
+AOI	Ancona
+TCP	Taba
+LYB	Little Cayman
+BJV	Bodrum
+TBJ	Tabarka
+SAW	Istanbul
+SCE	State College Pennsylvania
+BME	Broome
+NTL	Newcastle
+KLU	Klagenfurt
+HFT	Hammerfest
+HVG	Honningsvag
+MEH	Mehamn
+VDS	Vadsø
+IKA	Tehran
+MHD	Mashhad
+UIK	Ust Ilimsk
+MEI	Meridian
+SPI	Springfield
+CEZ	Cortez
+HDN	Hayden
+GUP	Gallup
+LBL	Liberal
+LAA	Lamar
+GLD	Goodland
+COD	Cody
+ISC	ST MARY\'S
+SGF	Springfield
+NVK	Narvik
+BVG	Berlevag
+NSK	Norilsk
+AAQ	Anapa
+JLN	Joplin
+ABE	Allentown
+XNA	Bentonville
+GUW	Atyrau
+KZO	Kzyl-Orda
+SBN	South Bend
+BKA	Moscow
+ARH	Arkhangelsk
+RTW	Saratov
+NUX	Novy Urengoy
+NOJ	Noyabrsk
+SCO	Aktau
+UCT	Ukhta
+USK	Usinsk
+PEX	Pechora
+NNM	Naryan-Mar
+PKV	Pskov
+KGP	Kogalym
+KJA	Krasnoyarsk
+KGF	Karaganda
+URJ	Uraj
+IWA	Ivanovo
+CGQ	Changchun
+KIJ	Niigata
+JON	Johnston Island
+SMD	Fort Wayne IN
+ACV	Arcata CA
+OAJ	Jacksonville NC
+TCL	Tuscaloosa AL
+DBQ	Dubuque IA
+HHP	Hong Kong
+ATD	Atoifi
+AKS	Auki
+BAS	Ballalae
+FRE	Fera Island
+MBU	Mbambanakira
+IRA	Kirakira
+SCZ	Santa Cruz/Graciosa Bay/Luova
+MUA	Munda
+GZO	Gizo
+MNY	Stirling Island
+RNL	Rennell Island
+RUS	Marau
+VAO	Suavanao
+KGE	Kagau Island
+RBV	Ramata
+BUA	Buka Island
+CMU	Kundiawa
+DAU	Daru
+GUR	Gurney
+PNP	Girua
+HKN	Hoskins
+UNG	Kiunga
+KRI	Kikori
+KMA	Kerema
+KVG	Kavieng
+MDU	Mendi
+MAS	Momote
+MXH	Moro
+MIS	Misima Island
+TIZ	Tari
+TBG	Tabubil
+RAB	Tokua
+VAI	Vanimo
+WBM	Wapenamanda
+LLU	Alluitsup Paa
+CNP	Neerlerit Inaat
+JFR	Paamiut
+JGO	Qeqertarsuaq Airport
+JJU	Qaqortoq
+JSU	Maniitsoq
+JNN	Nanortalik
+JNS	Narsaq
+NAQ	Qaanaaq
+JHS	Sisimiut
+JUV	Upernavik
+JQA	Uummannaq
+GRY	Grímsey
+THO	Thorshofn
+VPN	Vopnafjörður
+YWS	Whistler
+YAA	Anahim Lake
+YWM	Williams Harbour
+YFX	St. Lewis
+YHA	Port Hope Simpson
+YRG	Rigolet
+YCK	Colville Lake
+YLE	Whatì
+SUR	Summer Beaver
+YAX	Angling Lake
+WNN	Wunnumin Lake
+YNO	North Spirit Lake
+XBE	Bearskin Lake
+KIF	Kingfisher Lake
+YOG	Ogoki Post
+YHP	Poplar Hill
+YKU	Chisasibi
+ZTB	Tête-à-la-Baleine
+ZLT	La Tabatière
+YAC	Cat Lake
+YAG	Fort Frances
+XKS	Kasabonika
+YKG	Kangirsuk
+YAT	Attawapiskat
+YBE	Uranium City
+YBX	Lourdes-De-Blanc-Sablon
+YRF	Cartwright
+YCS	Chesterfield Inlet
+YDP	Nain
+YER	Fort Severn
+YFA	Fort Albany
+YFH	Fort Hope
+YMN	Makkovik
+YGB	Texada
+YGO	Gods Lake Narrows
+YGT	Igloolik
+YGW	Kuujjuarapik
+YGX	Gillam
+YGZ	Grise Fiord
+YQC	Quaqtaq
+CXH	Vancouver
+YNS	Nemiscau
+YHO	Hopedale
+YHR	Chevery
+YIK	Ivujivik
+YIV	Island Lake
+AKV	Akulivik
+YKQ	Waskaganish
+YPJ	Aupaluk
+YLC	Kimmirut
+YLH	Lansdowne House
+XGR	Kangiqsualujjuaq
+YMH	Mary's Harbour
+YMT	Chibougamau
+YUD	Umiujaq
+YNC	Wemindji
+YNE	Norway House
+YNL	Points North Landing
+YOH	Oxford House
+YPH	Inukjuak
+YPM	Pikangikum
+YPO	Peawanuck
+YPW	Powell River
+YQD	The Pas
+YQN	Nakina
+YRA	Gamètì
+YRL	Red Lake
+YSF	Stony Rapids
+YSK	Sanikiluaq
+YST	St. Theresa Point
+YTL	Big Trout Lake
+YVZ	Deer Lake
+YWP	Webequie
+YXN	Whale Cove
+YZG	Salluit
+ZAC	York Landing
+ILF	Ilford
+ZBF	Bathurst
+ZEM	Eastmain River
+ZFD	Fond-Du-Lac
+ZGI	Gods River
+ZJN	Swan River
+ZKE	Kashechewan
+MSA	Muskrat Dam
+ZMT	Masset
+ZPB	Sachigo Lake
+ZRJ	Round Lake
+ZSJ	Sandy Lake
+ZTM	Shamattawa
+ZUM	Churchill Falls
+ZWL	Wollaston Lake
+BLJ	Batna
+CBH	Béchar
+BMW	Bordj Badji Mokhtar
+ELU	Guemar
+KMS	Kumasi
+HDF	Heringsdorf
+HEI	Büsum
+HGL	Helgoland
+SJY	Seinäjoki / Ilmajoki
+NQT	Nottingham
+DSA	Sheffield
+CAL	Campbeltown
+EOI	Eday
+FIE	Fair Isle
+NRL	North Ronaldsay
+PPW	Papa Westray
+SOY	Stronsay
+NDY	Sanday
+LWK	Lerwick
+WRY	Westray
+LEQ	Land's End
+PZE	Penzance
+VLY	Angelsey
+BRR	Barra
+CFN	Dongloe
+CNL	Sindal
+LKN	Leknes
+OSY	Namsos
+RET	Røst
+SDN	Sandane
+SOG	Sogndal
+SVJ	Svolvær
+SOJ	Sorkjosen
+VRY	Værøy
+BZG	Bydgoszcz
+LCJ	Lodz
+OSD	Östersund
+HFS	Hagfors
+KSD	Karlstad
+TYF	Torsby
+AGH	Ängelholm
+SQO	Mohed
+HMV	Hemavan
+VNT	Ventspils
+QRA	Johannesburg
+MQP	Mpumalanga
+AAM	Malamala
+MBD	Mafeking
+GNZ	Ghanzi
+ORP	Orapa
+SWX	Shakawe
+TLD	Tuli Lodge
+DIS	Loubomo
+CIP	Chipata
+YVA	Moroni
+WAQ	Antsalova
+JVA	Ankavandra
+BMD	Belo sur Tsiribihina
+MXT	Maintirano
+TVA	Morafenobe
+WTA	Tambohorano
+WTS	Tsiroanomandidy
+WAM	Ambatondrazaka
+WPB	Port Bergé
+DWB	Soalala
+WMP	Mampikony
+WMA	Mandritsara
+MJA	Manja
+CBT	Catumbela
+DUE	Dundo
+VPE	Ondjiva
+MSZ	Mocamedes
+KOU	Koulamoutou
+MJL	Mouila
+TCH	Tchibanga
+VPY	Chimoio
+SRH	Sarh
+CMK	Club Makokola
+LUD	Luderitz
+OND	Ondangwa
+OMD	Oranjemund
+SWP	Swakopmund
+ERS	Windhoek
+BOA	Boma
+MAT	Matadi
+INO	Inongo
+NIO	Nioki
+KRZ	Kiri
+BSU	Basankusu
+TSH	Tshikapa
+LJA	Lodja
+PFR	Ilebo
+OUK	Outer Skerries
+GMZ	La Gomera
+BTE	Bonthe
+KBS	Bo
+KEN	Kenema
+OXB	Bissau
+SMW	Smara
+VIL	Dakhla
+ESU	Essadouira
+EUN	El Aaiún
+NDR	El Aroui
+RAI	Santiago Island
+SFL	Fogo Island
+BCO	Baco
+BEI	Beica
+DSE	Dessie
+DEM	Dembidollo
+GDE	Gode
+GOR	Gore
+ABK	Kabri Dehar
+MTF	Mizan Teferi
+TIE	Tippi
+ALU	Alula
+BSA	Bosaso
+MGQ	Mogadishu
+GLK	Galcaio
+BUO	Burao
+AAC	El Arish
+ATZ	Asyut
+ASV	Amboseli National Park
+LKG	Lokichoggio
+MYD	Malindi
+NYK	Nanyuki
+SRX	Sirt
+TOB	Tobruk
+MJI	Tripoli
+LAQ	Al Bayda'
+ATB	Atbara
+UYL	Nyala
+PZU	Port Sudan
+BKZ	Bukoba
+TKQ	Kigoma
+LDI	Lindi
+MUZ	Musoma
+SHY	Shinyanga
+TBO	Tabora
+RUA	Arua
+ULU	Gulu
+DIU	Diu
+ABR	Aberdeen
+ABY	Albany
+AHN	Athens
+ALM	Alamogordo
+ALO	Waterloo
+ALW	Walla Walla
+APN	Alpena
+ATY	Watertown
+BFD	Bradford
+BFF	Scottsbluff
+BKW	Beckley
+BQK	Brunswick
+BRL	Burlington
+CEC	Crescent City
+CGI	Cape Girardeau
+CIU	Sault Ste Marie
+CKB	Clarksburg
+CLM	Port Angeles
+CMX	Hancock
+DDC	Dodge City
+DUJ	Du Bois
+EAU	Eau Claire
+EKO	Elko
+EWB	New Bedford
+FAY	Fayetteville
+GGW	Glasgow
+GRI	Grand Island
+HOT	Hot Springs
+HTS	Huntington
+KIO	Kili Island
+IRK	Kirksville
+JMS	Jamestown
+LAR	Laramie
+LBE	Latrobe
+LBF	North Platte
+LEB	Lebanon
+LMT	Klamath Falls
+LNS	Lancaster
+LWT	Lewistown
+LYH	Lynchburg
+MKG	Muskegon
+MLS	Miles City
+MSL	Muscle Shoals
+OTH	North Bend
+OWB	Owensboro
+PIB	Hattiesburg/Laurel
+PIH	Pocatello
+PIR	Pierre
+PLN	Pellston
+PSM	Portsmouth
+RDG	Reading
+RHI	Rhinelander
+RKS	Rock Springs
+RUT	Rutland
+SBP	San Luis Obispo
+SHR	Sheridan
+SLK	Saranac Lake
+SLN	Salina
+SMX	Santa Maria
+TUP	Tupelo
+UIN	Quincy
+VCT	Victoria
+VLD	Valdosta
+WRL	Worland
+YKM	Yakima
+ECN	Nicosia
+RJL	Logroño-Agoncillo
+IDY	Île d'Yeu
+ANE	Angers/Marcé
+LTT	La Môle
+JSY	Syros Island
+PEV	Pécs-Pogány
+SOB	Sármellék
+AOT	Aosta
+QSR	Salerno
+CVU	Corvo
+BNX	Banja Luka
+USQ	Usak
+KSY	Kars
+SFQ	Sanliurfa
+KCM	Kahramanmaras
+AJI	Agri
+ADF	Adiyaman
+ISE	Isparta
+EDO	Balikesir Korfez
+SZF	Samsun
+ILZ	Žilina
+GDT	Cockburn Town
+MDS	Middle Caicos
+SLX	Salt Cay
+AZS	Samana
+JBQ	La Isabela
+PBR	Puerto Barrios
+AAZ	Quezaltenango
+UTK	Utirik Island
+AHS	Ahuas
+PEU	Puerto Lempira
+MIJ	Mili Island
+CYW	Celaya
+CUA	Ciudad Constitución
+GUB	Guerrero Negro
+JAL	Jalapa
+CTD	Chitré
+ONX	Colón
+JQE	Jaqué
+PLP	La Palma
+TTQ	Roxana
+BCL	Pococi
+PBP	Nandayure
+PJM	Puerto Jimenez
+SYQ	San Jose
+JEE	Jeremie
+PAX	Port-de-Paix
+TND	Trinidad
+COX	Andros
+ATC	Arthur's Town
+TBI	Cat Island
+CRI	Colonel Hill
+PID	Nassau
+AIU	Atiu Island
+MGS	Mangaia Island
+MHX	Manihiki Island
+MUK	Mauke Island
+MOI	Mitiaro Island
+PYE	Penrhyn Island
+ICI	Cicia
+PTF	Malolo Lailai Island
+KDV	Vunisea
+MNF	Mana Island
+MFJ	Moala
+NGI	Ngau
+LKB	Lakeba Island
+LBS	Lambasa
+TVU	Matei
+KXF	Koro Island
+RTA	Rotuma
+SVU	Savusavu
+EUA	Eua Island
+HPA	Lifuka
+NFO	Angaha Niuafo'ou Island
+NTT	Niuatoputapu
+VBV	Vanua Balavu
+IUE	Alofi
+FUT	Futuna Island
+MXS	Savaii Island
+APK	Apataki
+AHE	Ahe
+AUQ	Hiva-oa
+UAP	Ua Pou
+UAH	Ua Huka
+MTV	Ablow
+SLH	Sola
+TOH	Loh/Linua
+EAE	Sangafa
+CCV	Craig Cove
+LOD	Longana
+SSR	Pentecost Island
+PBJ	Paama Island
+LPM	Lamap
+LNB	Lamen Bay
+MWF	Maewo Island
+LNE	Lonorore
+NUS	Norsup
+ZGU	Gaua Island
+RCL	Redcliffe
+SON	Santo
+TGH	Tongoa Island
+ULB	Ambryn Island
+VLS	Valesdir
+SWJ	Malekula Island
+OLJ	Olpoi
+AUY	Anelghowhat
+AWD	Aniwa
+DLY	Dillon's Bay
+FTA	Futuna Island
+IPA	Ipota
+TGJ	Tiga
+BMY	Waala
+ILP	Île des Pins
+FBD	Faizabad
+AJF	Al-Jawf
+WAE	Wadi-al-dawasir
+KHD	Khorram Abad
+BXR	Bam
+RJN	Rafsanjan
+BJB	Bojnourd
+AFZ	Sabzevar
+NSH	Noshahr
+SRY	Dasht-e-naz
+LRR	Lar
+ADU	Ardabil
+OMH	Uromiyeh
+AAN	Al Ain
+BNP	Bannu
+BHV	Bahawalpur
+CJL	Chitral
+DBA	Dalbandin
+DEA	Dera Ghazi Khan
+DSK	Dera Ismael Khan
+JIW	Jiwani
+HDD	Hyderabad
+KDD	Khuzdar
+ORW	Ormara Raik
+PAJ	Parachinar
+KDU	Skardu
+SYW	Sehwan Sharif
+TUK	Turbat
+ISU	Sulaymaniyah
+KAC	Kamishly
+GXF	Sayun Intl
+ADK	Adak Island
+GST	Gustavus
+SGY	Skagway
+HCR	Holy Cross
+HNS	Haines
+KLG	Kalskag
+MCG	Mcgrath
+MOU	Mountain Village
+ANI	Aniak
+VAK	Chevak
+WRG	Wrangell
+OPU	Balimo
+VMU	Baimuru
+LUP	Molokai
+ENT	Eniwetok Atoll
+LZN	Matsu Islands
+HCN	Hengchun
+MFK	Matsu Islands
+KUH	Kushiro
+OKD	Sapporo
+HSG	Saga
+NKM	Nagoya
+IWJ	Iwami
+FKS	Fukushima
+ONJ	Odate Noshiro
+SYO	Shonai
+MYE	Miyakejima
+KUV	Kunsan
+MPK	Mokpo
+WJU	Wonju
+YNY	Sokcho / Gangneung
+HIN	Sacheon
+CJJ	Chongju
+SFS	Olongapo City
+CYU	Cuyo
+CGM	Camiguin
+JOL	Jolo
+TWT	Sanga Sanga
+SUG	Sangley Point
+TDG	Tandag
+WNP	Naga
+BSO	Basco
+SFE	San Fernando
+TUG	Tuguegarao
+VRC	Virac
+CYP	Calbayog City
+CRM	Catarman
+MBT	Masbate
+RXS	Roxas City
+TTG	Tartagal
+LHS	Las Heras
+OES	San Antonio Oeste
+ING	El Calafate
+GGS	Gobernador Gregores
+SST	Santa Teresita
+NEC	Necochea
+JDO	Juazeiro Do Norte
+LEC	Lençóis
+MEA	Macaé
+MII	Marília
+VDC	Vitória Da Conquista
+RIA	Santa Maria
+TOW	Toledo
+ESR	El Salvador
+ZPC	Pucon
+SOD	Sorocaba
+SCY	San Cristóbal
+LOH	La Toma (Catamayo)
+ESM	Esmeraldas
+PSY	Stanley
+CRC	Cartago
+LQM	Puerto Leguízamo
+LPD	La Pedrera
+NQU	Nuquí
+PDA	Puerto Inírida
+EYP	Yopal
+GYA	Guayaramerín
+PUR	Puerto Rico/Manuripi
+RIB	Riberalta
+REY	Reyes
+SRJ	San Borja
+ORG	Paramaribo
+MVS	Mucuri
+CJA	Cajamarca
+HUU	Huánuco
+NZC	Nazca
+SRA	Santa Rosa
+MYC	Maracay
+VIG	El Vigía
+JPR	Ji-Paraná
+BBQ	Codrington
+DSD	Grande Anse
+BBR	Basse Terre
+SFC	St-François
+GBJ	Grand Bourg
+NEV	Charlestown
+VIJ	Spanish Town
+BQU	Bequia
+UNI	Union Island
+KOV	Kokshetau
+PPK	Petropavlosk
+DZN	Zhezkazgan
+UKK	Ust Kamenogorsk
+KSN	Kostanay
+KVD	Ganja
+NAJ	Nakhchivan
+NER	Neryungri
+PYJ	Yakutia
+CKH	Chokurdah
+CYX	Cherskiy
+IKS	Tiksi
+KXK	Komsomolsk-on-Amur
+DYR	Anadyr
+OHO	Okhotsk
+UJE	Ujae Atoll
+MPW	Mariupol International
+VSG	Lugansk
+OZH	Zaporozhye
+KWG	Krivoy Rog
+HRK	Kharkov
+IFO	Ivano-Frankivsk
+CWC	Chernovtsk
+RWN	Rivne
+UDJ	Uzhgorod
+CSH	Solovetsky Islands
+CEE	Cherepovets
+AMV	Amderma
+KSZ	Kotlas
+PES	Petrozavodsk
+GNA	Hrodna
+MVQ	Mogilev
+EIE	Yeniseysk
+KYZ	Kyzyl
+NOZ	Novokuznetsk
+HTG	Khatanga
+IAA	Igarka
+NAL	Nalchik
+OGZ	Beslan
+ESL	Elista
+WKK	Aleknagik
+BLF	Bluefield
+GLH	Greenville
+PSC	Pasco
+KQA	Akutan
+LPS	Lopez
+SLY	Salekhard
+HMA	Khanty-Mansiysk
+NYA	Nyagan
+OVS	Sovetskiy
+IJK	Izhevsk
+KVX	Kirov
+NYM	Nadym
+RAT	Raduzhnyi
+NFG	Nefteyugansk
+KRO	Kurgan
+LBD	Khudzhand
+AZN	Andizhan
+FEG	Fergana
+NMA	Namangan
+NCU	Nukus
+UGC	Urgench
+KSQ	Khanabad
+TMJ	Termez
+RYB	Rybinsk
+EGO	Belgorod
+URS	Kursk
+LPK	Lipetsk
+VKT	Vorkuta
+UUA	Bugulma
+JOK	Yoshkar-Ola
+CSY	Cheboksary
+ULY	Ulyanovsk
+OSW	Orsk
+PEZ	Penza
+SKX	Saransk
+BWO	Balakovo
+HBX	Hubli
+KCT	Koggala
+WRZ	Wirawila
+BBM	Battambang
+SHL	Shillong
+GAU	Guwahati
+DMU	Dimapur
+TEZ	Tezpur
+BZL	Barisal
+HOE	Huay Xai
+BHR	Bharatpur
+BDP	Chandragarhi
+MEY	Meghauli
+KEP	Nepalgunj
+GAN	Gan Island
+HAQ	Haa Dhaalu Atoll
+KDO	Laamu Atoll
+MAQ	Tak
+BMV	Buonmethuot
+HPH	Haiphong
+CXR	Nha Trang
+VCS	Conson
+VCA	Can Tho
+DIN	Dienbienphu
+UIH	Phucat
+PXU	Pleiku
+VII	Vinh
+BMO	Banmaw
+TVY	Dawei
+KAW	Kawthoung
+LIW	Loikaw
+MNU	Mawlamyine
+BSX	Pathein
+PKK	Pakhokku
+SWQ	Sumbawa Island
+TMC	Waikabubak-Sumba Island
+BUI	Bokondini-Papua Island
+SEH	Senggeh-Papua Island
+TJS	Tanjung Selor-Borneo Island
+DTD	Datadawai-Borneo Island
+BEJ	Tanjung Redep-Borneo Island
+TJG	Tanjung-Borneo Island
+SMQ	Sampit-Borneo Island
+LUV	Langgur-Kei Islands
+ARD	Alor Island
+BLG	Belaga
+LGL	Long Datih
+ODN	Long Seridan
+MKM	Mukah
+BKM	Bakalalan
+LWY	Lawas
+BBN	Bario
+TMG	Tomanggong
+KUD	Kudat
+TKG	Bandar Lampung-Sumatra Island
+HLP	Jakarta
+NTX	Ranai-Natuna Besar Island
+PSU	Putussibau-Borneo Island
+SQG	Sintang-Borneo Island
+PDO	Talang Gudang-Sumatra Island
+LSW	Lhok Seumawe-Sumatra Island
+PKG	Pangkor Island
+LBW	Long Bawan-Borneo Island
+NNX	Nunukan-Nunukan Island
+LPU	Long Apung-Borneo Island
+ALH	Albany
+GYL	Argyle
+AUU	Aurukun
+BCI	Barcaldine
+BDD	Badu Island
+BVI	Birdsville
+BHQ	Broken Hill
+HTI	Hamilton Island
+BEU	Bedourie
+BRK	Bourke
+BUC	Burketown
+GIC	Boigu
+OKY	Oakey
+BQL	Boulia
+BHS	Bathurst
+BLT	Blackwater
+CVQ	Carnarvon
+CAZ	Cobar
+CPD	Coober Pedy
+CNC	Coconut Island
+CNJ	Cloncurry
+CED	Ceduna
+CTN	Cooktown
+CMA	Cunnamulla
+CNB	Coonamble
+CUQ	Coen
+OOM	Cooma
+DMD	Doomadgee
+NLF	Darnley Island
+DPO	Devonport
+ELC	Elcho Island
+EPR	Esperance
+FLS	Flinders Island
+GET	Geraldton
+GLT	Gladstone
+GTE	Groote Eylandt
+GFF	Griffith
+HID	Horn Island
+HOK	Hooker Creek
+MHU	Mount Hotham
+HGD	Hughenden
+JCK	Julia Creek
+KAX	Kalbarri
+KNS	King Island
+KFG	Kalkgurung
+KRB	Karumba
+KWM	Kowanyama
+KUG	Kubin
+LNO	Leonora
+LEL	Lake Evella
+LDH	Lord Howe Island
+IRG	Lockhart River
+LSY	Lismore
+LHG	Lightning Ridge
+LRE	Longreach
+LER	Leinster
+LVO	Laverton
+UBB	Mabuiag Island
+MKR	Meekatharra
+MIM	Merimbula
+MGT	Milingimbi
+MNG	Maningrida
+MCV	McArthur River Mine
+MQL	Mildura
+MMG	Mount Magnet
+MRZ	Moree
+MOV	Moranbah
+MYA	Moruya
+MGB	Mount Gambier
+ONG	Mornington Island
+MYI	Murray Island
+MBH	Maryborough
+NRA	Narrandera
+NAA	Narrabri
+NTN	Normanton
+ZNE	Newman
+OLP	Olympic Dam
+PUG	Argyle
+PMK	Palm Island
+PBO	Paraburdoo
+CCK	Cocos Keeling Island
+GOV	Gove
+PKE	Parkes
+PLO	Port Lincoln
+EDR	Pormpuraaw
+PQQ	Port Macquarie
+PTJ	Portland
+ULP	Quilpie
+RAM	Ramingining
+RMA	Roma
+SGO	St George
+MJK	Shark Bay
+SBR	Saibai Island
+SRN	Strahan
+XTG	Thargomindah
+TCA	Tennant Creek
+VCD	Victoria River Downs
+SYU	Sue Islet
+WNR	Windorah
+WYA	Whyalla
+WUN	Wiluna
+WOL	Wollongong
+WIN	Winton
+BWT	Burnie
+OKR	Yorke Island
+XMY	Yam Island
+NAY	Beijing
+CIF	Chifeng
+CIH	Changzhi
+DAT	Datong
+HET	Hohhot
+BAV	Baotou
+SJW	Shijiazhuang
+TGO	Tongliao
+HLH	Ulanhot
+XIL	Xilinhot
+BHY	Beihai
+CGD	Changde
+DYG	Dayong
+MXZ	Meixian
+ZUH	Zhuhai
+LZH	Liuzhou
+ZHA	Zhanjiang
+ENH	Enshi
+NNY	Nanyang
+XFN	Xiangfan
+YIH	Yichang
+AKA	Ankang
+GOQ	Golmud
+HZG	Hanzhong
+IQN	Qingyang
+XNN	Xining
+ENY	Yan'an
+UYN	Yulin
+AVK	Arvaikheer
+LTI	Altai
+BYN	Bayankhongor
+DLZ	Dalanzadgad
+HVD	Khovd
+MXV	Muren
+DIG	Shangri-La
+LUM	Luxi
+SYM	Simao
+ZAT	Zhaotong
+KOW	Ganzhou
+JDZ	Jingdezhen
+JIU	Jiujiang
+JUZ	Quzhou
+LYG	Lianyungang
+HYN	Huangyan
+LYI	Linyi
+JJN	Quanzhou
+TXN	Huangshan
+WEF	Weifang
+WEH	Weihai
+WUX	Wuxi
+WUS	Wuyishan
+WNZ	Wenzhou
+YNZ	Yancheng
+YIW	Yiwu
+HSN	Zhoushan
+BPX	Bangda
+DAX	Dazhou
+GYS	Guangyuan
+LZO	Luzhou
+MIG	Mianyang
+NAO	Nanchong
+LZY	Nyingchi
+WXN	Wanxian
+AKU	Aksu
+IQM	Qiemo
+KCA	Kuqa
+KRL	Korla
+KRY	Karamay
+YIN	Yining
+HEK	Heihe
+JMU	Jiamusi
+JNZ	Jinzhou
+NDG	Qiqihar
+YNJ	Yanji
+WKL	Waikoloa Village
+WME	Mount Keith
+LRV	Los Roques
+IOR	Inis Mor
+NNR	Indreabhan
+GTI	Ruegen
+EZV	Berezovo
+ORH	Worcester
+AQG	Anqing
+SHP	Qinhuangdao
+YCU	Yuncheng
+JGN	Jiayuguan
+DDG	Dandong
+DSN	Dongsheng
+PZI	Panzhihua
+PWT	Bremerton
+SPW	Spencer
+JEF	Jefferson City
+UNT	Unst
+PVC	Provincetown
+SBH	Gustavia
+KMW	Kostroma
+SUI	Sukhumi
+TBW	Tambow
+OBN	North Connel
+ERM	Erechim
+CVF	Courcheval
+FUL	Fullerton
+USA	Concord
+NVI	Navoi
+QSF	Setif
+LRH	La Rochelle
+SUN	Hailey
+MCW	Mason City
+AZA	Mesa
+XAU	Saul
+AKP	Anaktuvuk Pass
+ANV	Anvik
+ATK	Atqasuk
+GAM	Gambell
+HPB	Hooper Bay
+KAL	Kaltag
+KSM	St Mary's
+KVL	Kivalina
+MYU	Mekoryuk
+RBY	Ruby
+SHH	Shishmaref
+SVA	Savoonga
+WTK	Noatak
+OMC	Ormoc City
+YPX	Puvirnituq
+YTQ	Tasiujaq
+ARC	Arctic Village
+QOW	Imo
+FON	La Fortuna/San Carlos
+TMU	Nicoya
+CYZ	Cauayan
+KVK	Apatity
+GVR	Governador Valadares
+KPC	Port Clarence
+PJA	Pajala
+QBC	Bella Coola
+HGR	Hagerstown
+ACR	Araracuara
+GOP	Gorakhpur
+SDP	Sand Point
+HMI	Hami
+WUZ	Wuzhou
+TBH	Romblon
+ACP	Maragheh
+GBT	Gorgan
+IIL	Ilam
+PFQ	Parsabad
+TCG	Tacheng
+MQM	Mardin
+AFS	Zarafshan
+DRG	Deering
+LEN	Leon
+RGS	Burgos
+EGM	Sege
+CQD	Shahre Kord
+DHM	Kangra
+NDC	Nanded
+SLV	Shimla
+IGG	Igiugig
+KNW	New Stuyahok
+KVC	King Cove
+PTH	Port Heiden
+TOG	Togiak Village
+EGN	Geneina
+LKH	Long Akah
+WLH	Walaha
+CHG	Chaoyang
+UAS	Samburu South
+BHG	Brus Laguna
+YVB	Bonaventure
+SKT	Sialkot
+PDP	Punta del Este
+WVB	Walvis Bay
+MPA	Mpacha
+AOE	Eskissehir
+CKZ	Canakkale
+MSR	Mus
+NOP	Sinop
+TEQ	Çorlu
+YEI	Yenisehir
+LSS	Les Saintes
+KMV	Kalemyo
+VQS	Vieques Island
+YIF	St-Augustin
+HDM	Hamadan
+MRQ	Gasan
+GFN	Grafton
+OAG	Orange
+TRO	Taree
+COQ	Choibalsan
+HOH	Hohenems
+ESC	Escanaba
+YAK	Yakutat
+GUL	Goulburn
+CES	Cessnock
+NSO	Scone
+DGE	Mudgee
+MTL	Maitland
+CPX	Culebra Island
+MWA	Marion
+OCN	Fraser Island
+KIK	Kirkuk
+XJD	Doha
+GBZ	Claris
+IMT	Iron Mountain
+AET	Allakaket
+MGC	Michigan City
+SWD	Seward
+GRM	Grand Marais
+AUW	Wausau
+MYP	Mary
+MVA	Myvatn
+QSA	Sabadell
+WSY	Airlie Beach
+MIE	Muncie
+LAF	Lafayette
+VGT	Las Vegas
+ENW	Kenosha
+MTJ	Montrose CO
+RIW	Riverton WY
+PDT	Pendleton
+LYM	Lympne
+PKH	Porto Heli
+KTR	Katherine
+NOA	Nowra
+UCK	Lutsk
+CEJ	Chernigov
+BQT	Brest
+OSH	Oshkosh
+AGE	Wangerooge
+BXG	Bendigo
+EAT	Wenatchee
+ARE	Arecibo
+RIN	Ringi Cove
+KCK	Kirensk
+UKX	Ust-Kut
+RMT	Rimatara
+QLS	Lausanne
+ZJI	Locarno
+QNC	Neuchatel
+TGK	Taganrog
+GDZ	Gelendzhik
+ZIA	Ramenskoe
+IAR	Yaroslavl
+OHE	Mohe County
+JNG	Jining
+DRK	Puntarenas
+AAT	Altay
+TZL	Null
+FWH	Dallas
+NYT	Naypyidaw
+VBP	Bokepyin
+NZH	Manzhouli
+WUA	Wuhai
+GYY	Gary
+BRD	Brainerd
+LWB	Lewisburg
+PGV	Greenville
+CYF	Chefornak
+OXR	Oxnard
+BKG	Branson
+TEN	Tongren
+JGS	Jian
+NIU	Niau
+SCH	Scotia NY
+NBC	Nizhnekamsk
+QRW	Osubi
+IAO	Siargao
+LGO	Langeoog
+NLP	Nelspruit
+CKC	Cherkassy
+UST	St. Augustine Airport
+NLV	Nikolayev
+RHP	Ramechhap
+STS	Santa Rosa
+ISM	Kissimmee
+LCQ	Lake City
+LGU	Logan
+BMC	Brigham City
+ASE	Aspen
+ULV	Ulyanovsk
+ERV	Kerrville
+GED	Georgetown
+ZSW	Prince Rupert
+GBD	Great Bend
+HYS	Hays
+SUS	Null
+LYU	Ely
+GPZ	Grand Rapids MN
+TVF	Thief River Falls
+EGV	Eagle River
+ARV	Minocqua - Woodruff
+YBV	Berens River
+AVX	Catalina Island
+MHV	Mojave
+ZIN	Interlaken
+INQ	Inisheer
+SWT	Strezhevoy
+HUT	Hutchinson
+OAI	Kabul
+AKH	Al Kharj
+STJ	Rosecrans
+VOK	Camp Douglas
+GUC	Gunnison
+SIA	Xi\'AN
+TOA	Torrance
+MBL	Manistee
+PGD	Punta Gorda
+WFK	Frenchville
+JHW	Jamestown
+YTM	Mont-Tremblant
+SME	Somerset
+SHD	Weyers Cave
+DVL	Devils Lake
+DIK	Dickinson
+SDY	Sidney
+CDR	Chadron
+AIA	Alliance
+MCK	McCook
+MTH	Marathon
+GDV	Glendive
+OLF	Wolf Point
+WYS	West Yellowstone
+ALS	Alamosa
+CNY	Moab
+ELY	Ely
+VEL	Vernal
+RUI	Ruidoso
+SOW	Show Low
+MYL	McCall
+SMN	Salmon
+MMH	Mammoth Lakes
+FRD	Friday Harbor
+ESD	Eastsound
+AST	Astoria
+ONP	Newport
+EMK	Emmonak
+UNK	Unalakleet
+UUK	Kuparuk
+SHX	Shageluk
+CHU	Chuathbaluk
+NUI	Nuiqsut
+EEK	Eek
+KUK	Kasigluk
+KWT	Kwethluk
+KWK	Kwigillingok
+MLL	Marshall
+RSH	Russian Mission
+KGK	Koliganek
+KMO	Manokotak
+CIK	Chalkyitsik
+EAA	Eagle
+HUS	Hughes
+HSL	Huslia
+NUL	Nulato
+VEE	Venetie
+WBQ	Beaver
+CEM	Central
+SHG	Shungnak
+IYK	Inyokern
+VIS	Visalia
+MCE	Merced
+CYR	Colonia
+CPQ	Campinas
+GYR	Goodyear
+TWB	Toowoomba
+BBL	Ballera
+AYK	Arkalyk
+AGN	Angoon
+ELV	Elfin Cove
+FNR	Funter Bay
+HNH	Hoonah
+MTM	Metakatla
+HYG	Hydaburg
+EGX	Egegik
+KPV	Perryville
+PIP	Pilot Point
+WSN	South Naknek
+AKK	Akhiok
+KYK	Karluk
+KLN	Larsen Bay
+ABL	Ambler
+BKC	Buckland
+IAN	Kiana
+OBU	Kobuk
+ORV	Noorvik
+WLK	Selawik
+KTS	Brevig Mission
+ELI	Elim
+GLV	Golovin
+TLA	Teller
+WAA	Wales
+WMO	White Mountain
+KKA	Koyuk
+SMK	St. Michael
+SKK	Shaktoolik
+TNC	Tin City
+AKB	Atka
+IKO	Nikolski
+CYT	Yakataga
+AUK	Alakanuk
+KPN	Kipnuk
+KFP	False Pass
+NLG	Nelson Lagoon
+PML	Cold Bay
+KLW	Klawock
+KWN	Quinhagak
+KOT	Kotlik
+KYU	Koyukuk
+SCM	Scammon Bay
+NNL	Nondalton
+KKH	Kongiganak
+NIB	Nikolai
+AKI	Akiak
+AIN	Wainwright
+APZ	ZAPALA
+RDS	Rincon de los Sauces
+PNT	Puerto Natales
+SGV	Sierra Grande
+IGB	Ingeniero Jacobacci
+NCN	Chenega
+TKJ	Tok
+IRC	Circle
+SLQ	Sleetmute
+LMA	Lake Minchumina
+MLY	Manley Hot Springs
+YNP	Natuashish
+YSO	Postville
+YWB	Kangiqsujuaq
+YTF	Alma
+YGV	Havre-Saint-Pierre
+YXK	Rimouski
+XTL	Tadoule Lake
+XLB	Lac Brochet
+XSI	South Indian Lake
+YBT	Brochet
+ZGR	Little Grand Rapids
+YCR	Cross Lake
+YRS	Red Sucker Lake
+YOP	Rainbow Lake
+YBY	Bonnyville
+ZNA	Nanaimo
+YGG	Ganges
+YDT	Boundary Bay
+YLY	Langley Township
+YFJ	Wekweeti
+RNI	Corn Island
+BZA	Bonanza
+RFS	Rosita
+SIU	Siuna
+WSP	Waspam
+NCR	San Carlos
+PLD	Carrillo
+COZ	Constanza
+NEG	Negril
+NRR	Ceiba
+SPB	Charlotte Amalie
+ARR	Alto Rio Senguer
+JSM	Jose de San Martin
+UYU	Uyuni
+RBQ	Rerrenabaque
+ABF	Abaiang Atoll
+ABN	Albina
+DRJ	Drietabbetje
+MOJ	Moengo
+ICK	Nieuw Nickerie
+OEM	Paloemeu
+SMZ	Stoelmans Eiland
+TOT	Totness
+AGI	Wageningen
+ORJ	Orinduik
+NAI	Annai
+IMB	Imbaimadai
+KAR	Kamarang
+USI	Mabaruma
+MHA	Mahdia
+PJC	Pedro Juan Caballero
+ACD	Acandi
+RVE	Saravena
+BQJ	Batagay
+VGZ	Villa Garzon
+EBG	El Bagre
+CAQ	Caucasia
+COG	Condoto
+TLU	Tolu
+CFB	Cabo Frio
+OPS	Sinop
+GRP	Gurupi
+CMP	Santana do Araguaia
+BVS	Breves
+SFK	Soure
+PIN	Parintins
+BRA	Barreiras
+STZ	Santa Terezinha
+MQH	Minacu
+AUX	Araguaina
+NVP	Novo Aripuana
+FRC	Franca
+DOU	Dourados
+LBR	Labrea
+ROO	Rondonopolis
+GPB	Guarapuava
+JCB	Joacaba
+RVD	Rio Verde
+AAX	Araxa
+MBZ	Maues
+RBB	Borba
+CIZ	Coari
+BAZ	Barcelos
+DMT	Diamantino
+GNM	Guanambi
+QDJ	Djelfa
+NZA	Nzagi
+LBZ	Lucapa
+KNP	Kapanda
+AMC	Am Timan
+GSQ	Sharq Al-Owainat
+MRB	Martinsburg
+AWA	Awasa
+JIJ	Jijiga
+MKS	Mekane Selam
+DBM	Debre Marqos
+DBT	Debre Tabor
+QHR	Debre Zeyit
+GOB	Goba
+MYB	Mayumba
+MRE	Masai Mara
+JJM	Meru National Park
+RBX	Rumbek
+CPA	Greenville
+IHC	Inhaca
+MAX	Matam
+BDI	Bird Island
+WHF	Wadi Halfa
+NBE	Enfidha
+HTY	Hatay
+RVV	Raivavae
+FUO	Foshan
+HUZ	Huizhou
+ILD	Lleida
+BIU	Bildudalur
+GJR	Gjogur
+SAK	Saudarkrokur
+IIA	Inishmaan
+ULG	Olgii
+KQT	Kurgan Tyube
+VGD	Vologda
+ONK	Olenyok
+SYS	Saskylakh
+LDG	Arkhangelsk
+HSK	Huesca
+CQM	Ciudad Real
+NJF	Najaf
+CSA	Colonsay
+RKH	Rock Hill
+AGC	Pittsburgh
+VQQ	Jacksonville
+FTY	Atlanta
+TII	Tarin Kowt
+ZAJ	Zaranj
+CCN	Chaghcharan
+FUG	Fuyang
+LCX	Longyan
+BSD	Baoshan
+ACX	Xingyi
+HZH	Liping
+OSU	Columbus
+ADS	Addison
+DSI	Destin
+KHE	Kherson
+SZS	Stewart Island
+HJJ	Zhijiang
+YQI	Yarmouth
+ISO	Kinston
+FFA	Kill Devil Hills
+LNJ	Lincang
+CKS	Parauapebas
+MWK	Anambas Islands
+PGU	Khalije Fars
+YES	Yasuj
+OSM	Mosul
+TJH	Toyooka
+AXJ	Amakusa
+KKX	Kikai
+AGJ	Aguni
+ULZ	Uliastai
+UGA	Bulgan
+ULO	Ulaangom
+LBX	Lubang
+TJU	Kulyab
+CMJ	Cimei
+TAZ	Dasoguz
+BWB	Barrow Island
+DRB	Derby
+WGE	Walgett
+BRT	Bathurst Island
+DKI	Dunk Island
+LZR	Lizard Island
+HLT	Hamilton
+HCQ	Halls Creek
+FIZ	Fitzroy Crossing
+RVT	Ravensthorpe
+PVU	Provo
+SBS	Steamboat Springs
+DTA	Delta
+PUC	Price
+LAM	Los Alamos
+HII	Lake Havasu City
+INW	Winslow
+DGL	Douglas
+MZK	Marakei
+AEA	Abemama
+AAK	Buariki
+KUC	Kuria
+AIS	Arorae
+TMN	Tamana
+BEZ	Beru Island
+NIG	Nikunau
+BBG	Butaritari
+MTK	Makin
+MNK	Maiana
+NON	Nonouti
+TSU	Tabiteuea
+WTZ	Whitianga
+KTF	Takaka
+AFT	Afutara
+RNA	Ulawa
+CHY	Choiseul Bay
+NNB	Santa Ana
+XYA	Yandina
+BPF	Batuna
+BOW	Bartow
+FTI	Fiti\'uta
+LVK	Livermore
+RMY	Mariposa
+GFY	Grootfontein
+NDU	Rundu
+TRM	Palm Springs
+SMO	Santa Monica
+UDD	Palm Springs
+SCF	Scottsdale
+OLM	Olympia
+RIL	Rifle
+SAA	SARATOGA
+PDK	Atlanta
+BMG	Bloomington
+SUA	Stuart
+MMU	Morristown
+APC	Napa
+SDM	San Diego
+VNC	Venice
+PHK	Pahokee
+ECP	Panama City
+SBD	San Bernardino
+VAL	Valenca
+CAU	Caruaru
+AWK	Wake island
+QNV	Nova Iguacu
+SQL	San Carlos
+RWI	Rocky Mount
+SXQ	Soldotna
+SEE	El Cajon
+PHA	Phan Rang
+SQH	Son-La
+TKF	Truckee
+FRJ	Frejus
+GEX	Geelong
+LVM	Livingston-Montana
+GMV	Monument Valley
+JRA	New York
+LAL	Lakeland
+SYH	Syangboche
+RBK	Murrieta-Temecula
+FNU	Oristano
+MYQ	Mysore
+MGY	Dayton
+FDY	Findley
+PEA	Penneshaw
+EMP	Kempten
+HYC	Wycombe
+BBP	Bembridge
+SPF	Spearfish-South Dakota
+QYD	Gdynia
+OLV	Olive Branch
+KNA	Vina del Mar
+ONQ	Zonguldak
+BJC	Broomfield-CO
+SLE	Salem
+UTM	Tunica
+ZKB	Kasaba Bay
+LND	Lindau
+MWC	Milwaukee
+JVL	Janesville
+LZU	Lawrenceville
+BWG	Bowling Green
+RVS	Tulsa
+NHD	Minhad AB
+KGO	Kirovograd
+DBB	Dabaa City
+BCE	Bryce Canyon
+CKL	Shchyolkovo
+TCZ	Tengchong
+UKS	Sevastopol
+OAZ	Camp Bastion
+JCI	Olathe
+ESN	Easton
+HMR	Hamar
+MYV	Yuba City
+DUC	Duncan
+UVA	Uvalde
+LOT	Lockport
+CCR	Concord
+OCA	Ocean Reef Club Airport
+YUS	Yushu
+HIA	Huai An
+YOO	Oshawa
+LHA	Lahr
+NYW	Monywa
+ATO	Athens
+SGH	Springfield
+HEX	Santo Domingo
+CDA	Cooinda
+JAB	Jabiru
+HGS	Freetown
+TOP	Topeka
+MQY	Smyrna
+UOS	Sewanee
+NGQ	Shiquanhe
+CSO	Cochstedt
+PWK	Chicago-Wheeling
+KLS	Kelso
+ZTA	Tureia
+PUE	Puerto Obaldia
+KHC	Kerch
+UKA	Ukunda
+ILN	Wilmington
+AVW	Tucson
+CGZ	Casa Grande
+BXK	Buckeye
+MMI	Athens
+STK	Sterling
+RWL	Rawlins
+CDW	Caldwell
+AIZ	Kaiser Lake Ozark
+TVI	Thomasville
+HSH	Henderson
+GML	Kiev
+TMA	Tifton
+RDO	RADOM
+DVT	Phoenix 
+YRV	Revelstoke
+FRG	Farmingdale
+ZHY	Zhongwei
+MCL	McKinley Park
+PPC	Prospect Creek
+KHW	Khwai River
+TXG	Taichung
+HLG	Wheeling
+XYE	Ye
+DWC	Dubai
+RKP	Rockport
+MVV	Verdun
+MFX	Ajaccio
+AEB	Baise
+OKF	Okaukuejo
+OKU	Mokuti Lodge
+KOQ	Koethen
+PSH	Sankt Peter-Ording
+TTD	Troutdale
+HIO	Hillsboro
+KHT	Khost
+NMT	Naypyidaw
+BNO	Burns
+PRZ	Prineville
+RBL	Red Bluff
+NOT	Novato
+LKV	Lakeview
+OTK	Tillamook
+ONO	Ontario
+DLS	The Dalles
+GAI	Gaithersburg
+OAS	Sharona
+YTA	Pembroke
+TSB	Tsumeb
+YSD	Suffield
+BNU	BLUMENAU
+YCC	Cornwall
+IZA	Juiz de Fora
+MVL	Morrisville
+RBD	Dallas
+BXY	Baikonur
+WST	Washington County
+BID	Block Island
+NME	Nightmute
+OOK	Toksook Bay
+OBY	Ittoqqortoormiit
+VIN	Vinnitsa
+BGE	Bainbridge
+ZGS	La Romaine
+ZKG	Kegaska
+YBI	Black Tickle
+WHP	Los Angeles
+MAE	Madera
+YZZ	Trail
+YAB	Arctic Bay
+GSI	Grand-Santi
+MPY	Maripasoula
+LDX	Saint-Laurent-du-Maroni
+KJI	Burqin
+CPB	Capurgana
+HMB	Sohag
+RVY	Rivera
+POJ	Patos de Minas
+JTC	Bauru
+OIA	Ourilandia do Norte
+RDC	Redencao
+SXX	Sao Felix do Xingu
+BYO	Bointo
+SXO	Sao Felix do Araguaia
+CFC	Cacador
+CAF	Carauari
+ERN	Eirunepe
+CCI	Concordia
+FBE	Francisco Beltrao
+CFO	Confresa
+AAF	Apalachicola
+UMU	Umuarama
+DTI	Diamantina
+FBA	Fonte Boa
+OLC	Sao Paulo de Olivenca
+HUW	Humaita
+IRZ	Santa Isabel do Rio Negro
+ORX	Oriximina
+UNA	Una
+TEF	Telfer
+GZP	Alanya
+OAA	Shank
+FPR	Fort Pierce
+PYM	Plymouth
+NCO	North Kingstown
+OWD	Norwood
+BAF	Westfield
+MGJ	Montgomery
+HAR	Harrisburg
+DXR	Danbury
+ASH	Nashua
+LWM	Lawrence
+OXC	Oxford
+RMG	Rome
+GAD	Gadsden
+WDR	Winder
+DNN	Dalton
+LGC	LaGrange
+PIM	Pine Mountain
+GVL	Gainesville
+PHD	New Philadelpha
+HHH	Hilton Head Island
+DNL	Augusta
+MRN	Morganton
+PVL	Pikeville
+TOC	Toccoa
+PLV	Poltava
+WUU	Wau
+HUE	Humera
+OYL	Moyale
+OZG	Zagora
+WYE	Yengema
+GBK	Gbangbatok
+THX	Turukhansk
+TGP	Bor
+AFW	Fort Worth
+RMK	Renmark
+LGH	Leigh Creek
+RTS	Rottnest Island
+FOS	Forrest
+KEW	Keewaywin
+YSP	Marathon
+YHF	Hearst
+YHN	Hornepayne
+YKX	Kirkland Lake
+YMG	Manitouwadge
+YXZ	Wawa
+YEM	Manitowaning
+LWC	Lawrence
+PPM	Pompano Beach
+XMC	Mallacoota
+ULH	Al-Ula
+YUE	Yuendumu 
+LOP	Praya
+ZMH	108 Mile Ranch
+HDG	Handan
+LOZ	London
+FBG	Fredericksburg
+WMI	Warsaw
+JXA	Jixi
+JDG	Seogwipo
+YGM	Gimli
+EYK	Beloyarsky
+RAC	Racine
+RZP	Taytay
+RKZ	Shigatse
+TIW	Tacoma
+GUF	Gulf Shores
+IBB	Isabela
+HMJ	Khmeinitskiy
+HIW	Hiroshima
+KYI	Yalata
+HZL	Hazleton
+CBE	Cumberland
+WYN	Wyndham
+YBO	Bob Quinn Lake
+KLF	Kaluga
+LNR	Lone Rock
+JOT	Joliet
+VYS	Peru
+JXN	Jackson
+BBX	Philadelphia
+OBE	Okeechobee
+SEF	Sebring
+AVO	Avon Park
+GIF	Winter Haven
+ZPH	Zephyrhills
+OCF	Ocala
+AIK	Aiken
+CDN	Camden
+LBT	Lumberton
+SOP	Pinehurst-Southern Pines
+SVH	Statesville
+LHV	Lock Haven
+BKL	Cleveland
+DKK	Dunkirk
+LLY	Mount Holly
+LDJ	Linden
+ANQ	Angola
+CLW	Clearwater
+CGX	Chicago
+CRE	North Myrtle Beach
+BXO	Buochs
+WBW	Wilkes-Barre
+LNN	Willoughby
+UMD	Uummannaq
+RLK	Bayannur
+FFT	Frankfort
+LEW	Lewiston
+MRK	Marco Island Airport
+DRE	Drummond Island
+GDW	Gladwin
+MFI	Marshfield
+ISW	Wisconsin Rapids
+CWI	Clinton
+BVY	Beverly
+OSF	Moscow
+YRQ	Trois Rivieres
+POF	Poplar Bluff
+EOK	Keokuk
+PSL	Perth
+STP	St. Paul
+SOO	Soderhamn
+VNA	Saravane
+DKS	Dikson
+BYT	Bantry
+ADY	Alldays
+HAO	Hamilton
+GAS	Garissa
+HOA	Hola
+KEY	Kericho
+ILU	Kilaguni
+ATJ	Antsirabe
+OVA	Bekily
+UTS	Ust-Tsylma
+RGK	Gorno-Altaysk
+FLD	Fond du Lac
+STE	Stevens Point
+MQJ	Honuu
+PEF	Peenemunde
+CJN	Nusawiru
+GQQ	Galion
+TPN	Tiputini
+PTZ	Pastaza
+CKV	Clarksville
+LPC	Lompoc
+CTH	Coatesville
+BST	Lashkar Gah
+LLK	Lankaran
+GBB	Qabala
+ZTU	Zaqatala
+LKP	Lake Placid
+KDY	Khandyga
+GYG	Yakutsk
+JIQ	Qianjiang
+AOH	Lima
+DSO	Hamhung
+SSI	Brunswick
+BFP	Beaver Falls
+GGE	Georgetown
+HDI	Cleveland
+RNT	Renton
+POC	La Verne
+CTY	Cross City
+CEU	Clemson
+BEC	Wichita
+QFO	Duxford
+SNY	Sidney
+GKL	Great Keppel Island
+RPB	Roper Bar
+IFL	Innisfail
+JRF	Kapolei
+BIN	Bamyan
+NBS	Baishan
+RGO	Chongjin
+MOO	Moomba
+LUZ	Lublin
+ECA	East Tawas
+VAM	Maamigili
+LLF	Yongzhou
+LSZ	Mali Losinj
+ONS	Onslow
+TDR	Theodore
+WBU	Boulder
+BBJ	Birburg
+PAO	Palo Alto
+USR	Ust-Nera
+MSC	Mesa
+YTY	Yangzhou
+PTK	Pontiac
+KSI	Kissidougou
+EEN	Keene
+THQ	Tianshui
+VRO	Kawama
+GKK	Kooddoo
+RCS	Rochester
+RHD	Rio Hondo
+KMP	Keetmanshoop
+KGT	Kangding
+VUS	Veliky Ustyug
+IOW	Iowa City
+TLQ	Turpan
+ANP	Annapolis
+FXO	Cuamba
+ODO	Bodaibo
+ZTR	Zhytomyr
+HRI	Mattala
+PEQ	Pecos
+HBG	Hattiesburg
+QCJ	Botucatu
+QSC	Sao Carlos
+YKN	Yankton
+XSB	Sir Bani Yas Island
+ZBM	Bromont
+KTI	Kratie
+GYU	Guyuan
+CNI	Changhai
+KRH	Redhill
+JGD	Jiagedaqi District
+CCL	Chinchilla
+HWD	Hayward
+MZP	Motueka
+JHQ	Shute Harbour
+ARB	Ann Arbor
+SHT	Shepparton
+TEM	Temora
+GAH	Gayndah
+WIO	Wilcannia
+BFJ	Bijie
+ULK	Lensk
+KVR	Kavalerovo
+IGD	Igdir
+GNY	Sanliurfa
+KZR	Kutahya
+VLU	Velikiye Luki
+BEO	Lake Macquarie
+BMP	Brampton Island
+NGZ	Alameda
+YCN	Cochrane
+BJP	Braganca Paulista
+BQB	Brusselton
+SEK	Srednekolymsk
+IVR	Inverell
+GLI	Glen Innes
+IMM	Immokalee 
+TQQ	Sulawesi Tenggara
+YIC	Yichun
+PTB	Petersburg
+SBM	Sheboygan
+KFE	Cloudbreak
+BJU	Bajura
+MZJ	Marana
+SAD	Safford
+SLJ	Solomon
+KJP	Kerama
+EKB	Ekibastuz
+SIK	Sikeston
+TTI	Tetiaroa
+GFL	Queensbury
+MTN	Baltimore
+FRY	Fryeburg
+NEW	New Orleans
+COE	Coeur d'Alene
+BMT	Beaumont
+DNV	Danville
+COJ	Coonabarabran
+TIX	Titusville
+BZH	Bumi Hills
+UAR	Bouarfa
+NYE	NYERI
+AAP	Houston
+FCM	Eden Prairie
+LIX	Likoma Island
+OJC	Olathe
+GIU	Sigiriya
+EUM	Neumuenster
+TKT	Tak
+YLK	Barrie-Orillia
+YCM	Saint Catherines
+YPD	Parry Sound
+MNZ	Manassas
+LJN	Angleton
+BGG	Bingol
+KFS	Kastamonu
+LLV	Lvliang
+DCY	Daocheng
+GXH	Xiahe city
+CIY	Comiso
+KVM	Markovo
+ZKP	Zyryanka
+UMS	Ust-Maya
+ADH	Aldan
+OLZ	Olekminsk
+NLT	Xinyuan
+PTA	Port alsworth
+BOR	Belfort
+OBC	Obock
+TDJ	Tadjoura
+AQB	Santa Cruz des Quiche
+NOR	Nordfjordur
+BTZ	Bursa
+WAR	Waris-Papua Island
+EWK	Newton
+BSJ	Bairnsdale
+TZR	Columbus
+FBR	Fort Bridger
+CLS	Chehalis
+EVW	Evanston
+EUF	Eufala
+MEO	Manteo
+AUO	Auburn
+DBN	Dublin
+PUK	Pukarua
+CVO	Corvallis
+PXH	Prominent Hill
+CWT	Chatsworth
+OGD	Ogden
+AKO	Akron
+SHN	Shelton
+WNA	Napakiak
+PKA	Napaskiak
+YBW	Bedwell Harbour
+WSO	Washabo
+WKR	Walker's Cay
+GFO	Bartica
+DYL	Doylestown
+TGI	Tingo Maria
+TJL	Tres Lagoas
+YZY	Zhangye
+OAL	Cacoal
+OCW	Washington
+MHC	Castro
+SWO	Stillwater
+OKM	Okmulgee
+CUH	Cushing
+CSM	Clinton
+WLD	Winfield
+PWA	Oklahoma City
+DTN	Shreveport
+SEP	Stephenville
+ADT	Ada
+IRB	Iraan
+YEL	ELLIOT LAKE
+IKB	North Wilkesboro
+DAN	Danville
+ERG	Yerbogachen
+HCW	Cheraw
+BEM	Beni Mellal
+NKT	Cizre
+SUY	Suntar
+OUZ	Zouerat
+ABB	Asaba
+QUO	Uyo
+KAA	Kasama
+SGX	Songea
+JUH	Chizhou
+AOG	Anshan
+DQA	Daqing
+ZYI	Zunyi
+LDS	Yinchun
+AVA	Anshun
+KSS	Sikasso
+WTB	Toowoomba
+TNH	Tonghua
+SZV	Suzhou
+LII	Mulia
+NTI	Bintuni
+WSR	Wasior
+DTB	Siborong-Borong
+MEQ	Nagan Raya
+BUW	Bau-Bau
+KAZ	Kao
+MNA	Melonguane
+SGQ	Sanggata
+BUU	Muara Bungo
+ILA	Illaga
+OKL	Oksibil
+KOX	Kokonau
+CMQ	Clermont
+WMB	Warrnambool
+RCM	Richmond
+DCN	Derby
+KNO	Medan
+AMN	Kamloops
+HMY	Seosan
+EMT	El Monte
+FAH	Farah
+IXT	Pasighat
+KRQ	Kramatorsk
+QKX	Kautokeino
+SSF	Stinson
+JAS	Jasper
+MRF	Marfa
+ALE	Alpine
+BQE	Bubaque
+CZA	Chichen Itza
+BUY	Bunbury
+CCB	Upland
+EKI	Elkhart
+CUB	Columbia
+GDC	Greenville
+HVS	Hartsville
+SZT	San Cristobal de las Casas
+DU9	Dunnville
+RIH	Rio Hato
+LEE	Leesburg
+PPY	Pouso Alegre
+DIQ	Divinopolis
+EIK	Eysk
+ERD	Berdyansk
+BWX	Banyuwangi
+ERL	Erenhot
+CNO	Chino
+HTR	Taketomi
+BWW	Cayo Santa Maria
+PRB	Paso Robles
+PKX	Beijing
+HAF	Half Moon Bay
+HCJ	Hechi
+WJF	Lancaster
+CJF	Coondewanna
+GUZ	Guarapari
+UBT	Ubatuba
+BOX	Borroloola
+QUG	Goodwood
+TNW	Tena
+FYJ	Fuyuan
+PZL	Phinda
+LPF	Liupanshui
+KJH	Kaili
+HPG	Shennongjia
+ZQZ	Zhangjiakou
+YIE	Arxan
+HNY	Hengyang
+AHJ	Ngawa
+WOS	Wonsan
+IGT	Magas
+ASN	Talladega
+GMU	Greenville
+NGD	Anegada
+TOI	Troy
+ETS	Enterprise
+EFG	Efogi
+KGW	Kagi
+NDN	Nadunumu
+BNM	Bodinumu
+ALX	Alexander City
+PKT	Wadeye
+GPN	Pirlangimpi
+DOH	Doha
+HZP	Wood Buffalo
+HDE	Holdredge
+PTT	Pratt
+LXN	Lexington
+CBF	Council Bluffs
+OKK	Kokomo
+GBG	Galesburg
+GUY	Guymon
+IDP	Independence
+BBC	Bay City
+PRX	Paris
+CFV	Coffeyville
+GXY	Greeley
+OEL	Oakley
+FET	Fremont
+LGD	La Grande
+SZY	Szczytno-Szymany
+MPO	Mount Pocono
+UKT	Quakertown
+YBA	Banff
+BNG	Banning
+OFK	Norfolk  Nebraska
+TFL	Teofilo Otoni
+TPF	Tampa
+BZC	Buzios
+ITP	Itaperuna
+REZ	Resende
+KBN	Kabinda
+IKL	Ikela
+AIR	Aripuana
+JRN	Juruena
+JIA	Juina
+VLP	Vila Rica
+JUA	Juara
+CCX	Caceres
+TGQ	Tangara da Serra
+CQA	Canarana
+MTG	Vila Bela da Santissima Trindade 
+BMB	Bumba
+APQ	Arapiraca
+FLB	Floriano
+PCS	Picos
+BNC	Beni
+BNB	Boende
+MTP	Montauk
+VPZ	Valparaiso IN
+DRV	DHARAVANDHOO
+SXK	Saumlaki
+MLZ	Melo
+PDU	Paysandu
+ATI	Artigas 
+HSM	Horsham
+SWH	Swan Hill
+TTL	Turtle Island
+KWB	Karimunjawa
+KOO	Kongolo
+AOU	Attopeu
+SQX	Sao Miguel do Oeste
+LDM	Ludington
+RHV	San Jose
+OHS	Sohar
+KCF	Kadanwari
+RZS	Sindh
+TMF	Thimarafushi
+IFU	Ifuru
+KZF	Kieta
+OGU	Ordu-Giresun
+YKO	Hakkari
+BUT	Jakar
+TLI	Toli-Toli
+TQL	Tarko-Sale
+JIC	Jinchuan
+BPL	Bole
+FYN	Fuyun
+ACS	Achinsk
+LFQ	LINFEN
+YJP	Hinton
+WVI	Watsonville
+GLU	Gelephu
+HLI	Hollister
+DLK	Dulkaninna
+YBS	Musselwhite Mine
+RIZ	Rizhao
+SQJ	Sanming
+XTO	Taroom
+YSE	Squamish
+YAH	La Grande-4
+YAL	Alert Bay
+YCE	Centralia
+YCQ	Chetwynd
+XRR	Ross River
+YDO	Dolbeau-St-Félicien
+YEY	Amos
+YHE	Hope
+YHT	Haines Junction
+YDG	Digby
+YJF	Fort Liard
+YKJ	Key Lake
+YLR	Leaf Rapids
+YME	Matane
+YML	Charlevoix
+YOS	Owen Sound
+YPS	Port Hawkesbury
+YQS	St Thomas
+YRO	Ottawa
+YSH	Smiths Falls
+YSL	St Leonard
+YVE	Vernon
+YXQ	Beaver Creek
+YSN	Salmon Arm
+KES	Kelsey
+XPK	Pukatawagan
+ZGF	Grand Forks
+ZJG	Jenpeg
+YTD	Thicket Portage
+PIW	Pikwitonei
+XPP	Poplar River
+WPC	Pincher Creek
+ZST	Stewart
+ZUC	Ignace
+FNB	Neubrandenburg
+FSS	Kinloss
+BXP	Biała Podlaska
+DGP	Daugavpils
+LMR	Lime Acres
+SXN	Sowa
+NDD	Sumbe
+MAI	Mangochi
+ADI	Arandis
+MWE	Merowe
+ALN	Alton/St Louis
+AXN	Alexandria
+CLU	Columbus
+BBD	Brady
+BIH	Bishop
+BKE	Baker City
+BPI	Big Piney
+WMH	Mountain Home
+BTL	Battle Creek
+BYI	Burley
+CCY	Charles City
+CNU	Chanute
+CRG	Jacksonville
+CSV	Crossville
+DAA	Fort Belvoir
+DAG	Daggett
+DMN	Deming
+DRA	Mercury
+EED	Needles
+EGI	Crestview
+EKA	Eureka
+HYR	Hayward
+JCT	Junction
+LOL	Lovelock
+MBG	Mobridge
+MCB	Mc Comb
+MDH	Carbondale/Murphysboro
+MMT	Eastover
+NHZ	Brunswick
+NRB	Mayport
+OGB	Orangeburg
+OTM	Ottumwa
+OZR	Fort Rucker/Ozark
+PWY	Pinedale
+POU	Poughkeepsie
+RSL	Russell
+RWF	Redwood Falls
+SNS	Salinas
+TPH	Tonopah
+UKI	Ukiah
+UOX	Oxford
+HTV	Huntsville
+VTN	Valentine
+WMC	Winnemucca
+WWR	Woodward
+ZZV	Zanesville
+ECV	Madrid
+CDT	Castellón de la Plana
+TEV	Teruel
+QLP	Sarzana (SP)
+BJY	Batajnica
+RUV	Rubelsanto
+XPL	Comayagua
+UPL	Upala
+QSN	San Nicolás
+SNJ	Pinar Del Rio
+DWD	
+KMX	
+XXN	Riyadh
+KNR	Kangan
+PYK	Karaj
+XIJ	Ahmed Al Jaber AB
+ATG	Kamra
+SGI	Sargodha
+RQW	Qayyarah
+ENN	Nenana
+WWA	Wasilla
+IWK	Iwakuni
+IEJ	Ie
+AAV	Surallah
+BPH	
+MXI	
+BAT	Barretos
+QHP	Taubaté
+TOQ	Tocopilla
+CNR	Chañaral
+TLX	Talca
+ZIC	Victoria
+TTC	Taltal
+API	Apiay
+CVE	Coveñas
+PAL	La Dorada
+PZA	Paz De Ariporo
+TQS	Tres Esquinas
+RIJ	Rioja
+JAE	Jaén
+IKU	Tamchy
+VYI	Vilyuisk
+BGN	
+GVN	Sovetskaya Gavan
+NLI	Nikolayevsk-na-Amure Airport
+VLK	
+INA	Inta
+ZIX	Zhigansk
+RTC	
+HIM	Polonnaruwa Town
+RDP	Durgapur
+PUT	Puttaparthi
+LNX	Smolensk
+ABH	Alpha
+ARY	
+BLN	
+BZD	
+BWQ	
+CVC	
+CWW	
+CYG	
+CMD	
+DRN	
+DNQ	Deniliquin
+DYA	
+ECH	
+FRB	Forbes
+GUH	
+HXX	
+HTU	
+KRA	
+KPS	
+KGY	
+TGN	Morwell
+MRG	
+RPM	
+QRM	
+PPI	
+SIO	
+SNB	
+SWC	
+TYB	
+TUM	
+WGT	
+WKB	
+QRR	
+SXE	Sale
+WWY	West Wyalong
+NGA	
+LHK	Guanghua
+WDS	Shiyan
+HTT	Mengnai
+UUN	
+BFU	Bengbu
+RUG	Rugao
+WHU	Wuhu
+SXJ	Shanshan
+YKH	Yingkou
+BQG	Bogorodskoe
+HYD	Hyderabad
+PKO	Parakou
+KDC	Kandi
+HMG	Hermannsburg
+BIB	Baidoa
+KCS	Petermann
+BMR	Baltrum
+MVW	Skagit
+GOO	Goondiwindi
+APT	Jasper
+DCU	Decatur
+GLW	Glasgow
+DKV	Docker River
+RNZ	Rensselaer
+SBT	Sabetta
+AXF	Alxa Left Banner
+NIS	Simberi Island
+BUL	Bulolo
+TBR	Statesboro
+AMT	Amata
+EDD	Erldunda
+FIK	Finke
+JJG	Jaguaruna
+WKI	Hwange
+KLJ	Klaipeda
+ETB	WEST BEND
+GLR	GAYLORD
+AID	ANDERSON
+QND	Novi Sad
+GUU	Grundarfjordur
+PCD	Prairie du Chien
+OTJ	Otjiwarongo
+TSM	Taos
+RTN	Raton
+PPA	Pampa
+FLP	Flippin
+BGD	Borger
+HLE	Longwood
+BNJ	Sankt-Augustin
+NGK	Nogliki
+SQA	Santa Ynez
+HXD	Haixi
+BAR	Qionghai
+ZBO	Bowen
+UCB	Wulanchabu
+KEO	Odienne
+GII	Siguiri
+NZE	Nzerekore
+OCM	Brockman
+WGN	Shaoyang
+TXF	Teixeira de Freitas
+SPA	Spartangurg
+BJW	Bajawa
+NBN	San Antonio de Pale
+OLL	Oyo
+PPF	Parsons
+PCQ	Phongsaly
+AYS	Waycross
+DSS	Diass
+PMH	Portsmouth
+NAC	Naracoorte
+PGZ	Ponta Grossa
+PQM	Palenque
+CUD	Caloundra
+CLP	Clarks Point
+JOJ	Doris Lake
+ECI	Tola
+QGQ	Attu
+QPW	Kangaatsiaq
+QJE	Kitsissuarsuit
+XIQ	Ilimanaq
+QQT	Qeqertaq
+QJI	Ikamiut
+QFG	Eqalugaarsuit
+QRY	Ikerasaarsuk
+NPR	Novo Progresso
+SMT	Sorriso
+ENO	Encarnacion
+UZR	Urzhar
+NYR	Nyurba
+SUK	Batagay-Alyta
+UKG	Ust-Kuyga
+VHV	Verkhnevilyuysk
+DEE	Yuzhno-Kurilsk
+EKS	Shakhtyorsk
+TLK	Talakan
+RDB	Red Dog
+ION	Impfondo
+EBH	El Bayadh
+ZIS	Zintan
+MYZ	Monkey Bay
+BCU	Bauchi
+GMO	Gombe
+KDA	Kolda
+SHO	Manzini
+KIY	Kilwa Masoko
+QSI	Moshi
+MNS	Mansa
+GZI	Ghazni
+DBC	Baicheng
+LNL	Longnan
+SQD	Shangrao
+YSQ	Songyuan
+JSJ	Jiansanjiang
+WMT	Zunyi
+LLB	Libo
+CDE	Chengde
+DTU	Wudalianchi
+EJN	Ejin Banner
+RHT	Alxa Right Banner
+HUO	Holingol
+GMQ	Golog
+QSZ	Yarkant
+TEI	Tezu
+CWJ	Cangyuan
+JMJ	Lancang Lahu
+NLH	Ninglang
+PBQ	Pimenta Bueno
+WUT	Xinzhou
+NZL	Zhalantun
+AIP	Adampur
+VDY	Toranagallu
+SAG	Shirdi
+PYB	Jeypore
+SUP	Sumenep
+RKO	Sipora
+PPR	Pasir Pangaraian
+TJB	Tanjung Balai Karimun
+KRC	Kerinci Regency
+NRE	Buru Island
+NAM	Namlea
+DOB	Dobo
+SQN	Sanana
+AYW	Ayawasi
+BYQ	Bunyu
+UOL	Buol
+RAQ	Raha
+JSK	Jask
+ZBY	Sainyabuli
+BGL	Baglung
+RJB	Rajbiraj
+DQM	Duqm
+CKI	Croker Island
+BYP	Barimunya
+LUC	Laucala
+YAS	Yasawa Island
+WIK	Waiheke Island
+DEX	Dekai
+NAU	Napuka
+FAC	Faaite
+NUK	Nukutavake
+VHZ	Vahitahi
+HHZ	Hikueru
+RRR	Raroia
+KHZ	Kauehi
+TKV	Tatakoto
+TDS	Sasereme
+TMH	Boven Digoel
+NKB	Noonkanbah
+AEI	Algeciras
+KSE	Kasese
+NCJ	Sunchales
+IST	Istanbul
+SOV	Seldovia
+YSG	Lutselk'e
+DWA	Dwangwa
+KQH	Ajmer
+CNN	Kannur
+ZCO	Temuco
+ASS	Arathusa
+VDI	Vidalia
+ISB	Islamabad
+MHE	Mitchell
+GIT	Geita
+GID	Gitega
+RMU	Murcia
+CQS	COSTA MARQUES
+ZXT	Baku
+JAM	Yambol
+YUA	Yuanmou
+XEN	
+GEC	Geçitkale
+MBI	Mbeya
+UGU	Sugapa-Papua Island
+ETM	Eilat
+MNH	Al Masna'ah
+CGY	Cagayan de Oro City
+CPO	Copiapo
